@@ -1,15 +1,15 @@
 {
 "storeHouse": [
 
-{"sourceName":"1号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/1"},
-{"sourceName":"2号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/2"},
-{"sourceName":"3号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/3"},
-{"sourceName":"4号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/4"},
-{"sourceName":"5号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/5"},
-{"sourceName":"6号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/6"},
-{"sourceName":"7号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/7"},
-{"sourceName":"8号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/8"},
-{"sourceName":"9号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/9"}
+{"sourceName":"1号仓库","sourceUrl":"https://github.com/zqk219/baip/raw/main/duocangku/1.jpg"},
+{"sourceName":"2号仓库","sourceUrl":"https://github.com/zqk219/baip/raw/main/duocangku/2.jpg"},
+{"sourceName":"3号仓库","sourceUrl":"https://github.com/zqk219/baip/raw/main/duocangku/3.jpg"},
+{"sourceName":"4号仓库","sourceUrl":"https://github.com/zqk219/baip/raw/main/duocangku/4.jpg"},
+{"sourceName":"5号仓库","sourceUrl":"https://github.com/zqk219/baip/raw/main/duocangku/5.jpg"},
+{"sourceName":"6号仓库","sourceUrl":"https://github.com/zqk219/baip/raw/main/duocangku/6.jpg"},
+{"sourceName":"7号仓库","sourceUrl":"https://github.com/zqk219/baip/raw/main/duocangku/7.jpg"},
+{"sourceName":"8号仓库","sourceUrl":"https://github.com/zqk219/baip/raw/main/duocangku/8.jpg"},
+{"sourceName":"9号仓库","sourceUrl":"https://github.com/zqk219/baip/raw/main/duocangku/9.jpg"}
 
 
 ]}
