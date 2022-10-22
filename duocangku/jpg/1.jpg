@@ -1,12 +1,12 @@
 {
 	//地址：https://gitcode.net/zqk219/baip/-/raw/main/tv/1.json
-		"spider": "https://gitcode.net/zqk219/baip/-/raw/main/tv/jar/0903.jar;md5;888F16E7D29E9A5192636D2B427D35CE",
+		"spider": "https://raw.iqiq.io/zqk219/baip/main/jar/0903.jar;md5;888F16E7D29E9A5192636D2B427D35CE",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby96cWsyMTkvYmFpcC9tYWluL2xpdmUudHh0"]
 		}]
 	}],
 	"sites": [{
