@@ -75,10 +75,11 @@
 	{"key": "小姐姐","name": "💃哔哩小姐姐💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/zqk219/baip/main/Bli/Bili/哔哩小姐姐.json"},
 {"key": "哔哩8K","name": "💃哔哩8K💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/zqk219/baip/main/Bli/Bili/哔哩8K.json"},
 {"key": "车模","name": "💃哔哩车模💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/zqk219/baip/main/Bli/Bili/哔哩车模.json"},
+{"key": "印度舞蹈","name": "🎗️印度舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/zqk219/baip/main/Bli/Bili/印度舞蹈.txt"},
 
-{"key": "舞蹈","name": "🎗️哔哩舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/zqk219/baip/raw/branch/masterBli/Bili/吾爱舞蹈.json"},
+{"key": "舞蹈","name": "🎗️哔哩舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/zqk219/baip/main/Bli/Bili/吾爱舞蹈.json"},
 {"key": "解说","name": "⚽️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/zqk219/baip/main/Bli/Bili/吾爱影视解说.json"},
-{"key": "球类","name": "⚽️球球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/zqk219/baip/raw/branch/masterB/li/Bili/吾爱球球.json"},
+{"key": "球类","name": "⚽️球球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": https://raw.iqiq.io/zqk219/baip/main/Bli/Bili/吾爱球球.json"},
 {"key": "美食","name": " 🧡美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/zqk219/baip/main/Bli/Bili/吾爱美食.json"},
 {"key": "棋牌","name": " 💔棋牌合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/zqk219/baip/main/Bli/Bili/吾爱棋牌.json"},
 {"key": "UP主","name": " 🖤UP主机","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/zqk219/baip/main/Bli/Bili/吾爱UP主.json"},
