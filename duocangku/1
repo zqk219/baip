@@ -29,6 +29,10 @@
             "url": "clan://localhost/Bli/bili.json",
             "name": "bilibili包，先允许存取文件"
         },       
+        {
+            "url": "clan://localhost/zhang/tvbox.json",
+            "name": "zhang包，先允许存取文件"
+        },       
         {"url": "https://raw.iqiq.io/zqk219/baip/main/tv.json","name": "小可爱"},
         {"url": "https://raw.iqiq.io/zqk219/baip/main/TVBox_Py/py.json","name": "py"},
 {"url": "https://raw.iqiq.io/zqk219/baip/main/JS/js.json
