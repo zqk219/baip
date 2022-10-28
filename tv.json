@@ -1,19 +1,11 @@
 
 {
-	
-		"spider":" https://ghproxy.com/https://raw.githubusercontent.com/zqk219/zhang/main/jar/Yoursmile.jar;md5;34D8FC113483ADDD0C91DEB288B25E32",
-		//"spider": " https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/raw/main/jar/sq.jar;md5; 8B3F5374203DAB31865E0064314CB4D6",
-		//"spider": " https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/raw/main/jar/0909.jar;md5;1799BB511386B1C3B02667757FADCDEF",
-		
-		//"spider": " https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/raw/main/jar/bili.jar;md5;c5c337bb2793598e9aa5953898fbb087",
-		"wallpaper":"https://pan.igjbbs.cn/api/v3/file/source/30425/vod_thumb.png?sign=sVdblEFAX6kUkMBxwzFFA2Qyof1QhYXtCS8naId2QPU%3D%3A0",
-	"lives": [{
-		"group": "redirect",
-		"channels": [{
-			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20venFrMjE5L2JhaXAvcmF3L21haW4vbGl2ZS50eHQ="]
-		}]
-	}],
+"spider":" https://ghproxy.com/https://raw.githubusercontent.com/zqk219/zhang/main/jar/Yoursmile.jar;md5;34D8FC113483ADDD0C91DEB288B25E32",
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL3R2Ym94L3R2L2xpdmUudHh0"]}]}],
+"wallpaper":"http://maoyingshi.cc/api.php",
+
+
+
 	
 rules": [
   {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
