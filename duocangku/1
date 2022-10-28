@@ -13,8 +13,8 @@
             "name": "本地xxtv包，先允许存取文件"
         },
         {
-            "url": "clan://localhost/tvboxo1/1.json",
-            "name": "本地tvboxo1包，先允许存取文件"
+            "url": "clan://localhost/zhang/tvbox.json",
+            "name": "张包，先允许存取文件"
         },
 {
             "url": "clan://localhost/TVBox_Py/py.json",
@@ -29,10 +29,7 @@
             "url": "clan://localhost/Bli/bili.json",
             "name": "bilibili包，先允许存取文件"
         },       
-        {
-            "url": "clan://localhost/zhang/tvbox.json",
-            "name": "zhang包，先允许存取文件"
-        },       
+       
         {"url": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/tv.json","name": "小可爱"},
         {"url": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py.json","name": "py"},
 {"url": "https://raw.fastgit.org/zqk219/baip/main/JS/js.json","name": "js
