@@ -1,7 +1,7 @@
 
 {
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/jar/y.jar;md5;709D58DF2F7C58D439E74212A11BE7FA",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL3R2Ym94L2xpdmUudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20venFrMjE5L2JhaXAvbWFpbi9saXZlLnR4dA=="]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 	
@@ -14,7 +14,7 @@ rules": [
 
 "sites":[
 {"key":"douban","name":"豆瓣荐片","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "csp_XYQ_lu1","name": "️▎电视直播 ▎","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/xyq/ningmeng.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/jar/nm.jar},
+{"key": "csp_XYQ_lu1","name": "️▎电视直播 ▎","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/xyq/ningmeng.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/jar/nm.jar"},
 
 
 //爬虫
