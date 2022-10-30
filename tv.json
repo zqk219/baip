@@ -14,7 +14,7 @@ rules": [
 
 "sites":[
 {"key":"douban","name":"豆瓣荐片","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "csp_XYQ_lu1","name": "️▎电视直播 ▎","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/xyq/ningmeng.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/jar/nm.jar,MD5: BE3EF83F48564EE7763B810CB8CCBC53"},
+{"key": "csp_XYQ_lu1","name": "️▎电视直播 ▎","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/xyq/ningmeng.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/jar/nm.jar,"MD5": "BE3EF83F48564EE7763B810CB8CCBC53"},
 
 
 //爬虫
