@@ -30,14 +30,14 @@
             "name": "bilibili包，先允许存取文件"
         },       
        
-        {"url": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/tv.json","name": "小可爱"},
-        {"url": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py.json","name": "py"},
-{"url": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/JS/js.json","name": "js
+        {"url": "https://agit.ai/zqk219/baip/raw/branch/main/tv.json","name": "小可爱"},
+        {"url": "https://agit.ai/zqk219/baip/raw/branch/main/TVBox_Py/py.json","name": "py"},
+{"url": "https://agit.ai/zqk219/baip/raw/branch/main/JS/js.json","name": "js
 "},
-{"url": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/zhang/main/tvbox.json
+{"url": "https://agit.ai/zqk219/zhang/raw/branch/main/tvbox.json
 ","name": "张"},
 
-{"url": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/Bli/bili.json
+{"url": "https://agit.ai/zqk219/baip/raw/branch/main/Bli/bili.json
 ","name": "bilibili集合"},
         {
             "url": "https://notabug.org/zqk219/yingshicang/raw/master/道长",
@@ -77,3 +77,4 @@
       ]
    
 }
+
