@@ -1,5 +1,5 @@
 {
-    "spider" : "https://cdn.jsdelivr.net/gh/zqk219/baip@main/JS/web.jar",
+    "spider" : "https://github.com/zqk219/baip/raw/main/JS/web.jar;md5;74A24673CC1587FA87EC2D1F43BFA4CB",
     "sites" : [
             {
             "key" : "drpy_js_豆瓣",
