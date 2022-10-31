@@ -1,5 +1,5 @@
 {
-  "spider": ""https://cdn.jsdelivr.net/gh/zqk219/baip@/Bli/bili.jar;md5;EFACD6B4B7BE1C47783867C1BF73BC0D",
+  "spider": "https://cdn.jsdelivr.net/gh/zqk219/baip@/Bli/bili.jar;md5;EFACD6B4B7BE1C47783867C1BF73BC0D",
   "lives": [
     {
       "group": "redirect",
