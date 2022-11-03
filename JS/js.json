@@ -1,5 +1,9 @@
 {
-    "spider" : "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/JS/web.jar",
+    "spider" : "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/JS/w.jar",
+	
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20venFrMjE5L2JhaXAvbWFpbi9saXZlLnR4dA=="]}]}],	
+	
+	
     "sites" : [
             {
             "key" : "drpy_js_豆瓣",
@@ -1084,16 +1088,7 @@
             "filterable" : 0,
             "ext" : "http://刚刚.live/json/alitoken.json"
         }],
-    "lives" : [
-            {
-            "group" : "redirect",
-            "channels" : [
-                    {
-                    "name" : "live",
-                    "urls" : [
-                        "proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"]
-                }]
-        }],
+   
     "rules" : [
             {
             "host" : "www.djuu.com",
