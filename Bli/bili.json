@@ -7,7 +7,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby96cWsyMTkvYmFpcC9tYWluL2xpdmUudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3pxazIxOS9iYWlwL3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="
           ]
         }
       ]
@@ -75,11 +75,11 @@
 	{"key": "小姐姐","name": "💃哔哩小姐姐💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/Bli/Bili/哔哩小姐姐.json"},
 {"key": "哔哩8K","name": "💃哔哩8K💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/Bli/Bili/哔哩8K.json"},
 {"key": "车模","name": "💃哔哩车模💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/Bli/Bili/哔哩车模.json"},
-{"key": "印度舞蹈","name": "🎗️印度舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/zqk219/baip/raw/branch/master/Bli/Bili/%e5%8d%b0%e5%ba%a6%e6%ad%8c%e8%88%9e.txt"},
+{"key": "印度舞蹈","name": "🎗️印度舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/Bli/Bili/%e5%8d%b0%e5%ba%a6%e6%ad%8c%e8%88%9e.txt"},
 
-{"key": "舞蹈","name": "🎗️哔哩舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/zqk219/baip/raw/branch/master/Bli/Bili/吾爱舞蹈.json"},
+{"key": "舞蹈","name": "🎗️哔哩舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/Bli/Bili/吾爱舞蹈.json"},
 {"key": "解说","name": "⚽️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/Bli/Bili/吾爱影视解说.json"},
-{"key": "球类","name": "⚽️球球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/zqk219/baip/raw/branch/master/Bli/Bili/吾爱球球.json"},
+{"key": "球类","name": "⚽️球球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/Bli/Bili/吾爱球球.json"},
 {"key": "美食","name": " 🧡美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/Bli/Bili/吾爱美食.json"},
 {"key": "棋牌","name": " 💔棋牌合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/Bli/Bili/吾爱棋牌.json"},
 {"key": "UP主","name": " 🖤UP主机","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/Bli/Bili/吾爱UP主.json"},
@@ -764,4 +764,3 @@
     "cms.qdwght.com"
   ]
 }
-
