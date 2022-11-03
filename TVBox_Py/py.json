@@ -1,13 +1,7 @@
  {
     "wallpaper": "https://picsum.photos/1080",
     "spider": "",
-    "lives": [{
-        "group": "redirect",
-        "channels": [{
-            "name": "live",
-            "urls": ["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2docHJveHkuY29tL2h0dHBzJTNBLy9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3pxazIxOS9iYWlwL21haW4vbGl2ZS50eHQ="]
-        }]
-    }],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20venFrMjE5L2JhaXAvbWFpbi9saXZlLnR4dA=="]}]}],
     "sites": [{
  "key": "T4a",
         "name": "T4聚合",
@@ -18,7 +12,9 @@
         "filterable": 1
     },
  {"key": "py_douban","name": " 🐦豆瓣影视","type": 3,"api": "py_douban","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py_douban.py"},
-    {"key": "py_alist","name": " 🐦Alist","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py_alist.py"},
+    {"key": "py_T4a","name": " 🐦T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": ""},
+
+   {"key": "py_alist","name": " 🐦Alist","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py_alist.py"},
     {"key": "py_cctv_full","name": " 🐦央视大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_cctv_full.py"},
 	{"key": "py_cctv","name": " 🐦央视自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_cctv.py"},
 		{"key": "py_cctvzh","name": " 🐦央视综合","type": 3,"api": "py_cctvzh","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_cctvzh.py"},
@@ -45,12 +41,13 @@
 
 
 {"key": " py_bilibili","name": " 🐦哔哩合集","type": 3,"api": "py_bilibilikx","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_bilibili.py"},
-    {"key": " py_bilibilikx","name": " 🐦哔哩科学","type": 3,"api": "py_bilibilikx","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_bilibilikx.py"},
+  {"key": "py_bilivd","name": " 🐦哔哩音乐","type": 3,"api": "py_bilivd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_bilivd.py"},
+  {"key": " py_bilibilikx","name": " 🐦哔哩科学","type": 3,"api": "py_bilibilikx","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_bilibilikx.py"},
       {"key": " py_bilibili_baby","name": " 🐦哔哩儿童","type": 3,"api": "py_bilibili_baby","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_bilibili_baby.py"},
       {"key": " py_bilibili_xx","name": " 🐦哔哩小学","type": 3,"api": "py_bilibili_xx","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_bilibili_xx.py"},
 	{"key": " py_bilibili_cz","name": " 🐦哔哩初中","type": 3,"api": "py_bilibili_cz","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_bilibili_cz.py"},
-    {"key": " py_bilibili_gz","name": " 🐦哔哩高中","type": 3,"api": "py_bilibili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_bilibili_gz.py"},
-    {"key": " py_bilibili_ys","name": " 🐦哔哩影视","type": 3,"api": "py_bilibili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_bilibili_ys.py"},
+    {"key": " py_bilibili_gz","name": " 🐦哔哩高中","type": 3,"api": "py_bilibili_gz","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_bilibili_gz.py"},
+    {"key": " py_bilibili_ys","name": " 🐦哔哩影视","type": 3,"api": "py_bilibili_ys","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_bilibili_ys.py"},
 
    
    
@@ -62,7 +59,15 @@
     {"key": " py_yixi","name": " 🐦一席","type": 3,"api": "py_yixi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_yixi.py"},
     {"key": " py_3qu","name": " 🐦快播影视","type": 3,"api": "py_3qu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_3qu.py"},
     {"key": " py_kunyu77","name": " 🐦酷云77","type": 3,"api": "py_kunyu77","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_kunyu77.py"},
-    {"key":"py_lezhu","name":" 🐦乐猪影视 py","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_lezhu.py"},
+      {"key":"py_cokemv","name":" 🐦COKE py","type":3,"api":"py_cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_cokemv.py"},
+      {"key":"py_ikan","name":" 🐦爱看影院 py","type":3,"api":"py_ikan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_ikan.py"},
+
+      {"key":"py_wmkk","name":" 🐦完美看看 py","type":3,"api":"py_wmkk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_wmkk.py"},
+      {"key":"py_xmaomi","name":" 🐦小猫咪 py","type":3,"api":"py_xmaomi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_xmaomi.py"},
+      {"key":"py_yydshd","name":" 🐦阿里网盘 py","type":3,"api":"py_yydshd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_yydshd.py"},
+      {"key":"py_mac","name":" 🐦mac py","type":3,"api":"py_mac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/抓饭体育.py"},
+
+   {"key":"py_lezhu","name":" 🐦乐猪影视 py","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_lezhu.py"},
     {"key":"py_star","name":" 🐦星光影视 py","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_star.py"},
     {"key":"py_cup","name":" 🐦茶杯狐 py","type":3,"api":"py_cup","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_cup.py"},
     {"key": " py_kuaikan","name": " 🐦快看","type": 3,"api": "py_kuaikan","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_kuaikan.py"},	  
@@ -72,7 +77,6 @@
     {"key": "py_genmov","name": " 🐦跟剧","type": 3,"api": "py_genmov","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_genmov.py"},
     {"key": "py_cyys","name": " 🐦创意影视","type": 3,"api": "py_cyys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_cyys.py"},
    {"key": "py_czspp","name": " 🐦厂长","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_czspp.py"},
-   // {"key": "py_xmaomi","name": " 🐦猫咪","type": 3,"api": "py_xmaomi","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_xmaomi.py"},
     {"key": "py_zhaozy","name": " 🐦找资源","type": 3,"api": "py_zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_zhaozy.py"},
     {"key": "py_pansou","name": " 🐦盘搜","type": 3,"api": "py_pansou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_pansou.py"},
     {"key": "py_yiso","name": " 🐦易搜","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_yiso.py"},   
@@ -80,8 +84,11 @@
     {"key": "py_push_agent","name": " 🐦阿里","type": 3,"api": "py_ali","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_ali.py"},
     {"key": "py_libvio","name": " 🐦Libvio","type": 3,"api": "py_libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_libvio.py"},
     {"key": "py_qie","name": " 🐦QE体育","type": 3,"api": "py_qie","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_qie.py"},
-    {"key": "py_jrskbs","name": " 🐦JRS直播","type": 3,"api": "py_jrskbs","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_jrskbs.py"},
-    {"key": "py_huya","name": "🔥虎牙","type": 3,"api": "py_huya","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_huya.py"},
+       {"key":"py_freezb","name":" 🐦免费直播 py","type":3,"api":"py_freezb","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_freezb.py"},
+ {"key": "py_jrskbs","name": " 🐦JRS直播","type": 3,"api": "py_jrskbs","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_jrskbs.py"},
+          {"key":"py_yytv","name":" 🐦YY体育 py","type":3,"api":"py_yytv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_yytv.py"},
+
+	{"key": "py_huya","name": "🔥虎牙","type": 3,"api": "py_huya","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_huya.py"},
     {"key": "py_douyu","name": "🔥斗鱼","type": 3,"api": "py_douyu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py/py_douyu.py"}
    ],
     "parses": [{
