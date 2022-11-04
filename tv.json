@@ -39,12 +39,12 @@
 {"key": "TT","name": "TT(爬虫)","api": "csp_AppTT","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Alist2","name":"Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/sub/Alist.json"},
-{"key":"mtv_pc_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
-{"key":"mtv_pc_阿里盘搜","name":"搜索┃阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
-{"key":"mtv_pc_易搜资源","name":"搜索┃易搜资源","type":3,"api":"csp_Yiso"          ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
-{"key":"mtv_pc_找资源搜","name":"搜索┃找资源搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
-{"key":"csp_Upyunso","name":"Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
-{"key":"push_agent"     ,"name":"搜索┃推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
+{"key":"mtv_pc_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt"},
+{"key":"mtv_pc_阿里盘搜","name":"搜索┃阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt"},
+{"key":"mtv_pc_易搜资源","name":"搜索┃易搜资源","type":3,"api":"csp_Yiso"          ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:666/token.txt"},
+{"key":"mtv_pc_找资源搜","name":"搜索┃找资源搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:666/token.txt"},
+{"key":"csp_Upyunso","name":"Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://home.jundie.top:666/token.txt"},
+{"key":"push_agent"     ,"name":"搜索┃推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://home.jundie.top:666/token.txt"},
 
 ## 官采 系列
 
