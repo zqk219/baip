@@ -30,9 +30,9 @@
             "name": "bilibili包，先允许存取文件"
         },       
        
-        {"url": "https://cdn.jsdelivr.net/gh/zqk219/baip@main/tv.json","name": "小可爱"},
-        {"url": "https://cdn.jsdelivr.net/gh/zqk219/baip@main/TVBox_Py/py.json","name": "py"},
-{"url": "https://cdn.jsdelivr.net/gh/zqk219/baip@main/JS/js.json","name": "js
+        {"url": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/tv.json","name": "小可爱"},
+        {"url": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/baip/main/TVBox_Py/py.json","name": "py"},
+{"url": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/js/main/js.json","name": "js
 "},
 {"url": "https://cdn.jsdelivr.net/gh/zqk219/zhang@main/tvbox.json
 ","name": "张"},
