@@ -36,220 +36,120 @@ TVB财经,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8/
 
 
 央视高清,#genre#
+
 CCTV1,http://hls.ye23.vip/hls/cctv1hd.m3u8
-CCTV1,http://fyld.eatuo.com:9901/tsfile/live/1018_1.m3u8
-CCTV1,http://fyld.eatuo.com:9901/tsfile/live/1001_1.m3u8 
-CCTV1,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000210102.m3u8 
-CCTV1,http://111.20.33.70/TVOD/88888893/224/3221226010/index.m3u8
-CCTV1,http://111.13.42.234/PLTV/88888888/224/3221226338/1.m3u8
-CCTV1,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8 
 CCTV1,http://yfsl.vsd.gehua.net.cn/live/CCTV1HD_1200.m3u8 
+CCTV1,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8 
 CCTV1,http://223.111.124.239/yfsl.vsd.gehua.net.cn/live/CCTV1HDPortal_1500.m3u8 
 CCTV1,http://111.13.42.235/PLTV/88888888/224/3221226346/1.m3u8
 CCTV1,http://111.40.196.27/PLTV/88888888/224/3221225548/index.m3u8
 CCTV1,http://111.20.33.93/PLTV/88888893/224/3221226010/index.m3u8
-CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
-CCTV1,http://111.40.196.25/PLTV/88888888/224/3221225548/index.m3u8$超清1080P
-CCTV1,http://222.175.159.226:808/hls/1/index.m3u8$超清1080P
-CCTV1,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
 
-CCTV2,http://111.20.33.70/TVOD/88888893/224/3221226195/index.m3u8
- CCTV2,http://fyld.eatuo.com:9901/tsfile/live/1019_1.m3u8
 CCTV2,http://hls.ye23.vip/hls/cctv2hd.m3u8
-CCTV2,http://111.20.33.93/PLTV/88888893/224/3221226224/index.m3u8
 CCTV2,http://yfsl.vsd.gehua.net.cn/live/CCTV2_800.m3u8
 CCTV2,http://yfsl.vsd.gehua.net.cn/live/CCTV2HD_1200.m3u8
-CCTV2,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203602.m3u8
-CCTV2,	http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203603.m3u8	
-CCTV2,http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT$超清1080P
-CCTV2,http://111.13.42.229/PLTV/88888888/224/3221226230/1.m3u8
-CCTV2,http://125.40.191.58:9901/tsfile/live/0002_1.m3u8
 
-CCTV3,http://111.20.33.70/TVOD/88888893/224/3221226397/index.m3u8
+
 CCTV3,http://hls.ye23.vip/hls/cctv3hd.m3u8
-CCTV3,http://yfsl.vsd.gehua.net.cn/live/CCTV3HD_1200.m3u8				
- CCTV3,http://fyld.eatuo.com:9901/tsfile/live/1020_1.m3u8 
-CCTV3,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203802.m3u8	
-CCTV3,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203803.m3u8	
+CCTV3,http://yfsl.vsd.gehua.net.cn/live/CCTV3HD_1200.m3u8	
+	CCTV3,http://lu1.cc/itv/sjtv/p/migu.php?id=cctv3
+	 CCTV3,http://fyld.eatuo.com:9901/tsfile/live/1020_1.m3u8 
 CCTV3,http://cm.wshls.homecdn.com/live/11ef4.m3u8	
-CCTV3,http://39.134.32.102:6610/270000001111/1110000303/index.m3u8?IASHttpSessionId=OTT$超清1080P
-CCTV3,http://111.40.196.25/PLTV/88888888/224/3221225588/index.m3u8$超清1080P
-CCTV3,http://111.20.33.70/PLTV/88888893/224/3221226397/index.m3u8
-CCTV3,http://111.40.196.25/PLTV/88888888/224/3221225588/index.m3u8
 
-CCTV4,http://111.20.33.70/TVOD/88888893/224/3221226191/index.m3u8
+
 CCTV4,http://hls.ye23.vip/hls/cctv4hd.m3u8
-  CCTV4,http://fyld.eatuo.com:9901/tsfile/live/1021_1.m3u8 
-CCTV4,http://yfsl.vsd.gehua.net.cn/live/CCTV4_800.m3u8
+  CCTV4,http://yfsl.vsd.gehua.net.cn/live/CCTV4_800.m3u8
 CCTV4,http://yfsl.vsd.gehua.net.cn/live/CCTV4HD_1200.m3u8
-CCTV4,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204802.m3u8	
-CCTV4,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204803.m3u8	
-
-CCTV4,http://111.20.33.93/PLTV/88888893/224/3221226191/index.m3u8
-CCTV4,,http://111.13.42.230/PLTV/88888888/224/3221226470/1.m3u8
+CCTV4,http://fyld.eatuo.com:9901/tsfile/live/1021_1.m3u8 
 
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV4K,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8 
-CCTV4K,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266302.m3u8 
 
-CCTV5,http://111.20.33.70/TVOD/88888893/224/3221226395/index.m3u8
-CCTV5,http  CCTV5,http://fyld.eatuo.com:9901/tsfile/live/1022_1.m3u8 
+
+CCTV5,http://fyld.eatuo.com:9901/tsfile/live/1022_1.m3u8 
 CCTV5,http://fyld.eatuo.com:9901/tsfile/live/1022_1.m3u8 
 CCTV5,http://hls.ye23.vip/hls/cctv5hd.m3u8
-CCTV5,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000205102.m3u8 
-CCTV5,http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
-CCTV5,http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8$超清1080P
-CCTV5,http://222.175.159.226:808/hls/5/index.m3u8$超清1080P
 CCTV5,http://125.40.191.58:9901/tsfile/live/0005_1.m3u8
 
 
-CCTV5+,http://111.40.196.25/PLTV/88888888/224/3221225767/index.m3u8$超清1080P
 CCTV5+,http://yfsl.vsd.gehua.net.cn/live/CCTV5plusHD_1200.m3u8 
   CCTV5+,http://fyld.eatuo.com:9901/tsfile/live/1023_1.m3u8 
-CCTV5+,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204502.m3u8 
-CCTV5+,http://111.20.33.93/PLTV/88888893/224/3221226221/index.m3u8
-CCTV5+,http://111.20.33.70/TVOD/88888893/224/3221226221/index.m3u8
-CCTV5+,http://222.175.159.226:808/hls/6/index.m3u8
-CCTV5+,http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
 
-CCTV6,http://yfsl.vsd.gehua.net.cn/live/CCTV6HD_1200.m3u8			  
-CCTV6,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203302.m3u8			
-CCTV6,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203303.m3u8		
+
+CCTV6,http://yfsl.vsd.gehua.net.cn/live/CCTV6HD_1200.m3u8
+CCTV6,http://hls.ye23.vip/hls/cctv6hd.m3u8	  
  CCTV6,http://fyld.eatuo.com:9901/tsfile/live/1024_1.m3u8 
-CCTV6,http://183.207.255.207/live/program/live/cctv6hd/4000000/mnf.m3u8			
-CCTV6,http://111.177.34.89/hlslive.1905.com/live/LIVE2OR14O20ADLYU/index.m3u8
  CCTV6,http://cm.wshls.homecdn.com/live/11ee8.m3u8
-CCTV6,http://111.20.33.70/TVOD/88888893/224/3221226393/index.m3u8
-CCTV6,http://111.20.33.93/PLTV/88888893/224/3221226394/index.m3u8
-CCTV6,http://111.20.33.93/PLTV/88888893/224/3221226011/index.m3u8
-CCTV6,http://125.40.191.58:9901/tsfile/live/0007_1.m3u8
-CCTV6,http://39.134.66.2/PLTV/88888888/224/3221225814/index.m3u8
 
-CCTV7,http://111.20.33.70/TVOD/88888893/224/3221226192/index.m3u
+
 CCTV7,http://hls.ye23.vip/hls/cctv7hd.m3u8
   CCTV7,http://fyld.eatuo.com:9901/tsfile/live/1025_1.m3u8 
-CCTV7,http://111.20.33.93/PLTV/88888893/224/3221226192/index.m3u8
 CCTV7,http://yfsl.vsd.gehua.net.cn/live/CCTV7_800.m3u8
 CCTV7,http://yfsl.vsd.gehua.net.cn/live/CCTV7HD_1200.m3u8
-CCTV7,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000510002.m3u8
-CCTV7,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
 CCTV7,http://183.207.255.207/live/program/live/cctv7/1300000/mnf.m3u8
-CCTV7,http://125.40.191.58:9901/tsfile/live/1006_1.m3u8
 
-CCTV8,http://111.20.33.70/TVOD/88888893/224/3221226391/index.m3u8
 CCTV8,http://hls.ye23.vip/hls/cctv8hd.m3u8
   CCTV8,http://fyld.eatuo.com:9901/tsfile/live/1026_1.m3u8
 CCTV8,http://yfsl.vsd.gehua.net.cn/live/CCTV8_800.m3u8
 CCTV8,http://yfsl.vsd.gehua.net.cn/live/CCTV8HD_1200.m3u8		
-CCTV8,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203902.m3u8	
-CCTV8,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
 CCTV8,http://cm.wshls.homecdn.com/live/11ee0.m3u8
-CCTV8,http://111.20.33.93/PLTV/88888893/224/3221226391/index.m3u8
-CCTV8,http://125.40.191.58:9901/tsfile/live/1007_1.m3u8
-CCTV8,http://111.40.196.25/PLTV/88888888/224/3221225565/index.m3u8$高清1080P
 
 CCTV9,http://hls.ye23.vip/hls/cctv9hd.m3u8
  CCTV9,http://fyld.eatuo.com:9901/tsfile/live/1027_1.m3u8
 CCTV9,http://yfsl.vsd.gehua.net.cn/live/CCTV9_800.m3u8
 CCTV9,http://yfsl.vsd.gehua.net.cn/live/CCTV9HD_1200.m3u8
-CCTV9,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000499402.m3u8
-CCTV9,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
-CCTV9,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/index.m3u
-CCTV9,http://111.40.196.35/PLTV/88888888/224/3221225502/index.m3u8$超清1080P
-CCTV9,http://111.20.33.70/TVOD/88888893/224/3221226197/index.m3u8$超清1080P
-CCTV9,http://111.40.196.34/PLTV/88888888/224/3221225502/index.m3u8$高清1080P
-CCTV9,http://111.40.196.34/PLTV/88888888/224/3221225502/index.m3u8$高清1080P
 
-
-CCTV10,http://111.20.33.70/TVOD/88888893/224/3221226189/index.m3u8
-    CCTV10,http://fyld.eatuo.com:9901/tsfile/live/1028_1.m3u8 
+CCTV10,http://fyld.eatuo.com:9901/tsfile/live/1028_1.m3u8
+ CCTV10,http://hls.ye23.vip/hls/cctv10hd.m3u8
 CCTV10,http://yfsl.vsd.gehua.net.cn/live/CCTV10_800.m3u8
 CCTV10,http://yfsl.vsd.gehua.net.cn/live/CCTV10HD_1200.m3u8
-CCTV10,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203902.m3u8
 CCTV10,http://cm.wshls.homecdn.com/live/11ed8.m3u8
 CCTV10,http://183.207.255.207/live/program/live/cctv10hd/4000000/mnf.m3u8
 CCTV10,http://hls.ye23.vip/hls/cctv10hd.m3u8
-CCTV10,http://111.20.33.93/PLTV/88888893/224/3221226189/index.m3u8
-CCTV10,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225627/2/index.m3u8
-CCTV10,http://39.134.67.110/PLTV/88888888/224/3221225677/index.m3u8$超清1080P
 
-CCTV11,http://111.20.33.70/TVOD/88888893/224/3221226240/index.m3u8
-CCTV11,http://111.20.33.93/PLTV/88888893/224/3221226240/index.m3u8
+CCTV11,http://hls.ye23.vip/hls/cctv11hd.m3u8
  CCTV11,http://fyld.eatuo.com:9901/tsfile/live/1029_1.m3u8 
 CCTV11,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
 CCTV11,http://yfsl.vsd.gehua.net.cn/live/CCTV11_2000.m3u8
-CCTV11,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204102.m3u8
-CCTV11,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
-CCTV11,http://hls.ye23.vip/hls/cctv11hd.m3u8
 CCTV11,http://222.175.159.226:808/hls/12/index.m3u8$超清1080P
 
-CCTV12,http://111.20.33.70/TVOD/88888893/224/3221226190/index.m3u8
-CCTV12,http://111.20.33.93/PLTV/88888893/224/3221226190/index.m3u8
  CCTV12,http://fyld.eatuo.com:9901/tsfile/live/1030_1.m3u8 
 CCTV12,http://yfsl.vsd.gehua.net.cn/live/CCTV12_800.m3u8
 CCTV12,http://yfsl.vsd.gehua.net.cn/live/CCTV12HD_1200.m3u8
-CCTV12,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000202602.m3u8
-CCTV12,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
 CCTV12,http://183.207.255.207/live/program/live/cctv12/1300000/mnf.m3u8
 CCTV12,http://hls.ye23.vip/hls/cctv12hd.m3u8
-CCTV12,http://39.134.67.110/PLTV/88888888/224/3221225669/index.m3u8$超清1080P
 
-CCTV13,http://111.20.33.70/TVOD/88888893/224/3221226233/index.m3u8
-CCTV13,http://111.20.33.93/PLTV/88888893/224/3221226233/index.m3u8
 CCTV13,http://hls.ye23.vip/hls/cctv13hd.m3u8
 CCTV13,https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
 CCTV13,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv13_2/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV13,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204602.m3u8
-CCTV13,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV13,http://183.207.255.207/live/program/live/cctvxw/1300000/mnf.m3u8
 CCTV13,http://yfsl.vsd.gehua.net.cn/live/CCTV13_2000.m3u8
-CCTV13,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
 CCTV13,http://cm.wshls.homecdn.com/live/4e2f.m3u8
 CCTV13,http://stream4.jlntv.cn/cctv13/playlist.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8$超清1080P
 
-
-CCTV14,http://111.20.33.70/TVOD/88888893/224/3221226193/index.m3u8
 CCTV14,http://yfsl.vsd.gehua.net.cn/live/CCTV14_800.m3u8
  CCTV14,http://fyld.eatuo.com:9901/tsfile/live/1032_1.m3u8 
 CCTV14,http://yfsl.vsd.gehua.net.cn/live/CCTV14HD_1200.m3u8
-CCTV14,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204402.m3u8
-CCTV14,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
-CCTV14,http://59.51.68.40:1936/live/cctv14/playlist.m3u8
 CCTV14,http://hls.ye23.vip/hls/cctv14hd.m3u8
-CCTV14,http://39.134.67.110/PLTV/88888888/224/3221225674/index.m3u8$超清1080P
-CCTV14,http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8$超清1080P
 
-CCTV15,http://111.20.33.70/TVOD/88888888/224/3221225785/index.m3u8$超清1080P
-CCTV15,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
+CCTV15,http://hls.ye23.vip/hls/cctv15hd.m3u8
 CCTV15,http://fyld.eatuo.com:9901/tsfile/live/1033_1.m3u8 
-CCTV15,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
 CCTV15,http://yfsl.vsd.gehua.net.cn/live/CCTVmusic_2000.m3u8
-CCTV15,http://183.207.255.207/live/program/live/cctvyy/1300000/mnf.m3u8
 CCTV15,http://[2409:8087:5c00:10:5::92]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225693/index.m3u8
-CCTV15,http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8$高清1080P
-CCTV15,http://39.134.67.110/PLTV/88888888/224/3221225513/index.m3u8$高清1080P
 
+CCTV16,http://hls.ye23.vip/hls/cctv16hd.m3u8
 CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8$超清1080P
-CCTV16,http://111.20.33.70/TVOD/88888893/224/3221226921/index.m3u8
-CCTV16,http://111.20.33.93/PLTV/88888893/224/3221226921/index.m3u8
-CCTV16,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012492302.m3u8
-CCTV16,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012492303.m3u8
-CCTV16,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012375002.m3u8
-CCTV16,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012375003.m3
 
-CCTV17,http://111.20.33.70/TVOD/88888893/224/3221226198/index.m3u8
-CCTV17,http://111.20.33.93/PLTV/88888893/224/3221226198/index.m3u8
  CCTV17,http://fyld.eatuo.com:9901/tsfile/live/1034_1.m3u8 
 CCTV17,http://yfsl.vsd.gehua.net.cn/live/CCTV17HD_6000.m3u8
-CCTV17,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204202.m3u8
-CCTV17,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
-CCTV17,http://59.51.68.40:1936/live/cctv17/playlist.m3u8
-CCTV17,http://39.134.32.102:6610/270000001111/1110000391/index.m3u8?IASHttpSessionId=OTT
-CCTV17,http://111.13.42.235/PLTV/88888888/224/3221226318/1.m3u8
-
+CCTV17,http://hls.ye23.vip/hls/cctv17hd.m3u8
+CGTN英闻,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
+CGTN法语,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2010153503.m3u8
+CGTN俄语,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2010152603.m3u8
+CGTN阿拉伯语,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2010155203.m3u8
+CGTN西班牙语,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2010152503.m3u8
+CGTN纪录国际,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2010155403.m3u8
 
 
 🎈cetv系列,#genre#
@@ -280,32 +180,62 @@ CGTN,http://111.20.33.93/TVOD/88888888/224/3221225745/index.m3u8$超清1080P
 冬奥纪实,http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8$超清1080P
 
 🎈央视数字频道,#genre#
+
+cctv兵器科技,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513403.m3u8
 cctv兵器科技,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513402.m3u8 
 cctv兵器科技,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8 
-cctv文体精品,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513802.m3u8 
- cctv文体精品, http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513803.m3u8 
-cctv文体精品,http://httpdvb.slave.yqdtv.com:13164/httpdvb/piece.ts?accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&piecekey=sdysjp&piecevalue=63514995&pieceid=4200000075 
+
+cctv文化精品,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+cctv文化精品,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513802.m3u8 
+ cctv文化精品, http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513803.m3u8 
+cctv文化精品,http://httpdvb.slave.yqdtv.com:13164/httpdvb/piece.ts?accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&piecekey=sdysjp&piecevalue=63514995&pieceid=4200000075 
+ 
+cctv第一剧场,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
  cctv第一剧场,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514402.m3u8 
   cctv第一剧场,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8 
+  
+ cctv怀旧剧场,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
    cctv怀旧剧场,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511202.m3u8 
  cctv怀旧剧场, http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511203.m3u8 
  cctv怀旧剧场,http://httpdvb.slave.yqdtv.com:13164/httpdvb/piece.ts?accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&piecekey=sdhjjc&piecevalue=63514af5&pieceid=4200000077 
-  cctv风云剧场,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513602.m3u8             
-  cctv风云剧场,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8 
-  cctv风云剧场,http://httpdvb.slave.yqdtv.com:13164/httpdvb/piece.ts?accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&piecekey=sdfyjc&piecevalue=63514ba4&pieceid=4200000079 
+  
+ cctv风云剧场,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8 
+ cctv风云剧场,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513602.m3u8  
+ cctv风云剧场,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8 
+ cctv风云剧场,http://httpdvb.slave.yqdtv.com:13164/httpdvb/piece.ts?accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&piecekey=sdfyjc&piecevalue=63514ba4&pieceid=4200000079 
+
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+ 
+ cctv风云音乐,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+ 
+ cctv风云足球,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
  cctv风云足球,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514202.m3u8 
 cctv风云足球,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8 
 cctv风云足球,http://httpdvb.slave.yqdtv.com:13164/httpdvb/piece.ts?accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&piecekey=sdfyzq&piecevalue=63514c60&pieceid=4200000078 
+
+cctv世界地理,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
 cctv世界地理,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513302.m3u8 
 cctv世界地理,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8 
+
+cctvV电视指南,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
 cctv电视指南,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514002.m3u8 
 cctv电视指南,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514003.m3u8 
+
+
+cctv女性时尚,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
 cctv女性时尚,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513902.m3u8 
 cctv女性时尚,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513903.m3u8  
 cctv女性时尚,http://111.20.33.84/PLTV/88888893/224/3221226237/1.m3u8 
+
+
+cctv央视台球,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+
+cctv高尔夫,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
 cctv高尔夫,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512502.m3u8 
 cctv高尔夫,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8 
+
+
+cctv卫生健康,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 cctv卫生健康,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513502.m3u8 
 cctv卫生健康,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8 
 cctv卫生健康,http://httpdvb.slave.yqdtv.com:13164/httpdvb/piece.ts?accesstoken=G171CCF47V21307D1TE06202J347C03ABM7902F3A5I2A659027K98BDA6&piecekey=sdwsjk&piecevalue=63514f9b&pieceid=4200000111 
@@ -1232,7 +1162,51 @@ TVB港剧[800•600],http://mmitv.top/pltv/yy.php?id=38525272
 【贝爷影厅】经典科幻动作灾难巨兽,http://epg.112114.xyz/douyu/252802
 【女神金】60帧极致蓝光刀刀陪看,http://epg.112114.xyz/douyu/747764
 
-
+爱奇艺,#genre#
+爱奇艺-国剧修复,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key
+爱奇艺-老剧超清修复,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_92_600_t10/c52_lb_92_600_t10.m3u8?key
+爱奇艺-华语院线,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8?key
+爱奇艺-院线电影,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8?key
+爱奇艺-高分电影,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_112_600_t10/c51_lb_112_600_t10.m3u8?key
+爱奇艺-票房冠军,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8?key
+爱奇艺-日韩院线,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_62_600_t10/c53_lb_62_600_t10.m3u8?key
+爱奇艺-经典港片,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key
+爱奇艺-电影大片,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8?key
+爱奇艺-温情影院,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_113_600_t10/c51_lb_113_600_t10.m3u8?key
+爱奇艺-惊悚午夜场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8?key
+爱奇艺-粤语原声,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_185_600_t10/c56_lb_185_600_t10.m3u8?key
+爱奇艺-动画电影,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key
+爱奇艺-历史秘闻,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8?key
+爱奇艺-军事观察,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8?key
+爱奇艺-经典纪实,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8?key
+爱奇艺-科学探索,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8?key
+爱奇艺-自然地理,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8?key
+爱奇艺-央视大剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_90_600_t10/c54_lb_90_600_t10.m3u8?key
+爱奇艺-家庭剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8?key
+爱奇艺-收视冠军,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8?key
+爱奇艺-老年剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8?key
+爱奇艺-仙侠玄幻,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8?key
+爱奇艺-经典重温,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_137_600_t10/c55_lb_137_600_t10.m3u8?key
+爱奇艺-婚姻剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_219_600_t10/c56_lb_219_600_t10.m3u8?key
+爱奇艺-情景喜剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_145_600_t10/c55_lb_145_600_t10.m3u8?key
+爱奇艺-热播电视剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8?key
+爱奇艺-口播年代剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_171_300_t10/c54_lb_171_300_t10.m3u8?key
+爱奇艺-抗战剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8?key
+爱奇艺-宫庭正剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8?key
+爱奇艺-怀旧剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8?key
+爱奇艺-军旅剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8?key
+爱奇艺-权谋剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8?key
+爱奇艺-谍战剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_216_600_t10/c57_lb_216_600_t10.m3u8?key
+爱奇艺-青春剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_147_720P_t10/c55_lb_147_720P_t10.m3u8?key
+爱奇艺-爱情保卫战,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_142_600_t10/c54_lb_142_600_t10.m3u8?key
+爱奇艺-人文社会,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_243_600_t10/c56_lb_243_600_t10.m3u8?key
+爱奇艺-美食厨房,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_182_600_t10/c56_lb_182_600_t10.m3u8?key
+爱奇艺-戏剧,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_245_600_t10/c56_lb_245_600_t10.m3u8?key
+爱奇艺-我和我的祖国,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_72_720P_t10/c53_lb_72_720P_t10.m3u8?key
+爱奇艺-第三调解室,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_240_600_t10/c56_lb_240_600_t10.m3u8?key
+爱奇艺-真人秀,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_75_720P_t10/c52_lb_75_720P_t10.m3u8?key
+爱奇艺-小说改编,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_174_600_t10/c54_lb_174_600_t10.m3u8?key
+糖豆广场舞,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_235_600_t10/c56_lb_235_600_t10.m3u8?key
 
 🐅huya解说类,#genre#
 香港女神系列,http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
