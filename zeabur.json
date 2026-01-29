@@ -1,0 +1,2574 @@
+{
+	"spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a747194acf234c9e3f8e102fdc902970",
+	"wallpaper": "https://zqk219.zeabur.app/logo.png",
+	"sites": [{
+		"key": "dyttzy",
+		"name": "电影天堂",
+		"type": 1,
+		"api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "bfzy",
+		"name": "暴风资源",
+		"type": 1,
+		"api": "https://bfzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影片", "动作片", "喜剧片", "恐怖片", "科幻片", "爱情片", "剧情片", "战争片", "纪录片", "理论片", "连续剧", "国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "动漫片", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "综艺片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "动画片", "电影解说", "预告片", "体育赛事", "足球", "篮球", "网球", "斯诺克", "短剧大全", "重生民国", "穿越年代", "现代言情", "反转爽文", "女恋总裁", "闪婚离婚", "都市脑洞", "古装仙侠", "福利"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "tyyszy",
+		"name": "天涯资源",
+		"type": 1,
+		"api": "https://tyyszy.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩国剧", "日本剧", "港台剧", "台湾剧", "泰国剧", "纪录片", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说", "短剧", "伦理", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "4K电影", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "邵氏电影", "Netflix电影", "Netflix自制剧", "擦边短剧", "预告解说", "科普学习"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "ffzy",
+		"name": "非凡影视",
+		"type": 1,
+		"api": "https://api.ffzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "zy360",
+		"name": "360资源",
+		"type": 1,
+		"api": "https://360zy.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "伦理片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "体育", "NBA", "惊悚片", "家庭篇", "古装片", "历史片", "悬疑片", "犯罪片", "灾难片", "纪录片", "短片", "动画片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "欧美动漫", "日韩动漫", "足球", "篮球", "未分类", "西部片", "爽文短剧", "现代都市", "脑洞悬疑", "年代穿越", "古装仙侠", "反转爽剧", "女频恋爱", "成长逆袭"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "maotaizy",
+		"name": "茅台资源",
+		"type": 1,
+		"api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺片", "动漫", "纪录片", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "欧美剧", "韩剧", "动漫电影", "泰国剧", "日本剧", "台湾剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "演唱会", "国产动漫", "日本动漫", "欧美动漫", "海外动漫", "伦理片", "新闻资讯", "体育赛事", "短剧大全", "篮球", "足球", "网球", "斯诺克", "LPL", "重生民国", "穿越现代", "反转爽剧", "言情总裁", "现代都市", "古装仙侠", "悬疑烧脑", "惊悚片", "电影资讯", "娱乐新闻"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "wolong",
+		"name": "卧龙资源",
+		"type": 1,
+		"api": "https://wolongzyw.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "jisu",
+		"name": "极速资源",
+		"type": 1,
+		"api": "https://jszyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电视剧", "电影", "欧美剧", "香港剧", "韩剧", "日剧", "马泰剧", "伦理片", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "动漫", "内地剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "综艺", "台湾剧", "体育赛事", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "灾难片", "悬疑片", "犯罪片", "奇幻片", "短剧", "预告片", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "dbzy",
+		"name": "豆瓣资源",
+		"type": 1,
+		"api": "https://dbzy.tv/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺片", "动漫", "纪录片", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "欧美剧", "韩剧", "动漫电影", "泰国剧", "日本剧", "台湾剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "演唱会", "国产动漫", "日本动漫", "欧美动漫", "海外动漫", "伦理片", "新闻资讯", "体育赛事", "短剧大全", "篮球", "足球", "网球", "斯诺克", "LPL", "重生民国", "穿越现代", "反转爽剧", "言情总裁", "现代都市", "古装仙侠", "悬疑烧脑", "惊悚片", "电影资讯", "娱乐新闻"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "mozhua",
+		"name": "魔爪资源",
+		"type": 1,
+		"api": "https://mozhuazy.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "mdzy",
+		"name": "魔都资源",
+		"type": 1,
+		"api": "https://www.mdzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫", "电影", "连续剧", "综艺", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "惊悚片", "家庭片", "古装片", "历史片", "悬疑片", "犯罪片", "灾难片", "记录片", "短片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "短剧", "伦理片"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "zuid",
+		"name": "最大资源",
+		"type": 1,
+		"api": "https://api.zuidapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "纪录片", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说", "爽文短剧", "伦理", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "4K电影", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "邵氏电影", "Netflix电影", "Netflix自制剧", "擦边短剧", "科普学习", "漫剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "yinghua",
+		"name": "樱花资源",
+		"type": 1,
+		"api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "资讯", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "台湾剧", "韩国剧", "公告", "头条", "犯罪片", "纪录片", "动画电影", "日本剧", "欧美剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日本动漫", "欧美动漫", "海外动漫", "伦理片"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "wujin",
+		"name": "无尽资源",
+		"type": 1,
+		"api": "https://api.wujinapi.me/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "资讯", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "台湾剧", "美国剧", "公告", "头条", "伦理片", "纪录片", "韩国剧", "日本剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "悬疑片", "动画片", "犯罪片", "奇幻片", "邵氏电影", "泰剧", "体育赛事", "篮球", "影视解说", "短剧", "港台动漫", "海外动漫", "演唱会", "足球", "预告片", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "有声动漫", "女频恋爱", "反转爽剧", "脑洞悬疑", "年代穿越", "古装仙侠", "现代都市", "Netflix电影", "Netflix自制剧", "擦边短剧", "漫剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "wwzy",
+		"name": "旺旺短剧",
+		"type": 1,
+		"api": "https://wwzy.tv/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["短剧", "分类2", "分类3", "分类4", "教程", "子类1", "子类2", "子类3", "子类4", "子类5", "子类6", "子类7", "子类8", "子类9", "子类10", "子类11", "采集教程", "其他教程"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "ikun",
+		"name": "iKun资源",
+		"type": 1,
+		"api": "https://ikunzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "伦理片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "惊悚片", "家庭片", "古装片", "历史片", "悬疑片", "犯罪片", "灾难片", "记录片", "短片", "动画片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "欧美动漫", "日本动漫", "体育", "足球", "内地明星", "港台明星", "爽文短剧", "德甲", "意甲", "英超", "西甲", "法甲", "NBA", "CBA", "LPL", "WCBA", "篮球", "里番动漫"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "lzi",
+		"name": "量子资源",
+		"type": 1,
+		"api": "https://cj.lziapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "bdzy",
+		"name": "百度资源",
+		"type": 1,
+		"api": "https://api.apibdzy.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "大陆剧", "欧美剧", "韩剧", "日剧", "港澳剧", "台湾剧", "泰剧", "纪录片", "其他剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画电影", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说", "爽文短剧", "伦理", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "4K电影", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "邵氏电影"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "hongniuzy",
+		"name": "红牛资源",
+		"type": 1,
+		"api": "https://www.hongniuzy2.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港澳剧", "日剧", "欧美剧", "台湾剧", "泰剧", "韩剧", "纪录片", "动漫电影", "伦理片", "体育赛事", "短剧", "预告片", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "xinlangaa",
+		"name": "新浪资源",
+		"type": 1,
+		"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "动漫", "综艺", "纪录片", "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "大陆剧", "港澳剧", "台湾剧", "欧美剧", "动漫电影", "韩剧", "日剧", "泰剧", "伦理片", "体育", "短剧", "预告片", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "ckzy",
+		"name": "CK资源",
+		"type": 1,
+		"api": "https://ckzy.me/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["伦理片", "教程"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "ukuapi",
+		"name": "U酷资源",
+		"type": 1,
+		"api": "https://api.ukuapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港澳剧", "日剧", "欧美剧", "动漫电影", "台湾剧", "韩剧", "泰剧", "记录片", "伦理片", "资讯", "新闻资讯", "预告资讯", "影视资讯", "明星资讯", "短剧", "奇幻片", "犯罪片"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "1080zyk",
+		"name": "1080资源",
+		"type": 1,
+		"api": "https://api.1080zyku.com/inc/apijson.php/",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "台湾剧", "韩国剧", "欧美剧", "香港剧", "泰国剧", "日本剧", "福利", "记录片", "动画片", "海外剧", "倫理片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "搞笑", "音乐", "影视", "汽车", "短剧大全", "预告片", "预告片", "体育"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "hhzyapi",
+		"name": "豪华资源",
+		"type": 1,
+		"api": "https://hhzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电视剧", "电影", "欧美剧", "香港剧", "韩剧", "日剧", "马泰剧", "伦理片", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "动漫", "内地剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "综艺", "台湾剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "灾难片", "悬疑片", "犯罪片", "奇幻片", "短剧", "预告片", "体育赛事", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "subocaiji",
+		"name": "速博资源",
+		"type": 1,
+		"api": "https://subocaiji.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "动漫", "综艺", "纪录片", "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "动漫电影", "大陆剧", "台湾剧", "韩剧", "美剧", "港澳剧", "日剧", "泰剧", "伦理片", "体育赛事", "中国动漫", "日本动漫", "欧美动漫", "短剧", "预告片", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "p2100",
+		"name": "飘零资源",
+		"type": 1,
+		"api": "https://p2100.net/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "台湾剧", "日本剧", "韩国剧", "欧美剧", "海外剧", "短剧", "理论片", "纪录片", "邵氏大片", "站内新闻", "娱乐动态", "八卦爆料", "影片资讯", "动漫电影"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "aqyzy",
+		"name": "爱奇艺",
+		"type": 1,
+		"api": "https://iqiyizyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫", "电影", "连续剧", "综艺", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "惊悚片", "家庭片", "古装片", "历史片", "悬疑片", "犯罪片", "灾难片", "记录片", "短片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "短剧", "伦理片", "动漫"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "yzzy",
+		"name": "优质资源",
+		"type": 1,
+		"api": "https://api.yzzy-api.com/inc/apijson.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "myzy",
+		"name": "猫眼资源",
+		"type": 1,
+		"api": "https://api.maoyanapi.top/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "伦理片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "体育", "NBA", "惊悚片", "家庭篇", "古装片", "历史片", "悬疑片", "犯罪片", "灾难片", "纪录片", "短片", "动画片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "欧美动漫", "日韩动漫", "足球", "篮球", "未分类", "西部片", "爽文短剧", "短剧现代都市", "短剧脑洞悬疑", "短剧年代穿越", "短剧古装仙侠", "短剧反转爽剧", "短剧女频恋爱", "短剧成长逆袭", "奇幻片", "里番动漫"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "rycj",
+		"name": "如意资源",
+		"type": 1,
+		"api": "https://cj.rycjapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "jinyingzy",
+		"name": "金鹰点播",
+		"type": 1,
+		"api": "https://jinyingzy.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电视剧", "电影", "欧美剧", "香港剧", "韩剧", "日剧", "马泰剧", "伦理片", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "动漫", "内地剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "综艺", "台湾剧", "体育赛事", "短剧", "预告片", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "guangsuapi",
+		"name": "光速资源",
+		"type": 1,
+		"api": "https://api.guangsuapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "剧情片", "恐怖片", "战争片", "大陆剧", "欧美剧", "港澳剧", "韩剧", "动漫电影", "日剧", "台湾剧", "泰剧", "记录片", "伦理片", "体育赛事", "短剧", "预告片", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "iqiyizyapi.com",
+		"name": "🎬-爱奇艺-",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/iqiyi?url=https://iqiyizyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫", "电影", "连续剧", "综艺", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "惊悚片", "家庭片", "古装片", "历史片", "悬疑片", "犯罪片", "灾难片", "记录片", "短片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "短剧", "伦理片", "动漫"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "dbzy.tv",
+		"name": "🎬豆瓣资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/dbzy5?url=https://caiji.dbzy5.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺片", "动漫", "纪录片", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "欧美剧", "韩剧", "动漫电影", "泰国剧", "日本剧", "台湾剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "演唱会", "国产动漫", "日本动漫", "欧美动漫", "海外动漫", "伦理片", "新闻资讯", "体育赛事", "短剧大全", "篮球", "足球", "网球", "斯诺克", "LPL", "重生民国", "穿越现代", "反转爽剧", "言情总裁", "现代都市", "古装仙侠", "悬疑烧脑", "惊悚片", "电影资讯", "娱乐新闻"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "mtzy.me",
+		"name": "🎬茅台资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/maotaizy?url=https://caiji.maotaizy.cc/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺片", "动漫", "纪录片", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "欧美剧", "韩剧", "动漫电影", "泰国剧", "日本剧", "台湾剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "演唱会", "国产动漫", "日本动漫", "欧美动漫", "海外动漫", "伦理片", "新闻资讯", "体育赛事", "短剧大全", "篮球", "足球", "网球", "斯诺克", "LPL", "重生民国", "穿越现代", "反转爽剧", "言情总裁", "现代都市", "古装仙侠", "悬疑烧脑", "惊悚片", "电影资讯", "娱乐新闻"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "wolongzyw.com",
+		"name": "🎬卧龙资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/wolongzyw?url=https://wolongzyw.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影片", "连续剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "记录片", "短片", "动画片", "国产动漫", "欧美动漫", "日本动漫", "港台综艺", "韩国综艺", "大陆综艺", "泰国剧", "欧美综艺", "电影解说", "惊悚片", "家庭片", "古装片", "历史片", "悬疑片", "犯罪片", "伦理片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "ikunzy.com",
+		"name": "🎬iKun资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/ikun?url=https://ikunzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "伦理片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "惊悚片", "家庭片", "古装片", "历史片", "悬疑片", "犯罪片", "灾难片", "记录片", "短片", "动画片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "欧美动漫", "日本动漫", "体育", "足球", "内地明星", "港台明星", "爽文短剧", "德甲", "意甲", "英超", "西甲", "法甲", "NBA", "CBA", "LPL", "WCBA", "篮球", "里番动漫"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "dyttzyapi.com",
+		"name": "🎬电影天堂",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/dyttzyapi?url=http://caiji.dyttzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影片", "连续剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "伦理片", "短剧", "动画片"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "www.maoyanzy.com",
+		"name": "🎬猫眼资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/maoyanapi?url=https://api.maoyanapi.top/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "伦理片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "体育", "NBA", "惊悚片", "家庭篇", "古装片", "历史片", "悬疑片", "犯罪片", "灾难片", "纪录片", "短片", "动画片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "欧美动漫", "日韩动漫", "足球", "篮球", "未分类", "西部片", "爽文短剧", "短剧现代都市", "短剧脑洞悬疑", "短剧年代穿越", "短剧古装仙侠", "短剧反转爽剧", "短剧女频恋爱", "短剧成长逆袭", "奇幻片", "里番动漫"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "cj.lzcaiji.com",
+		"name": "🎬量子资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/lzcaiji?url=https://cj.lzcaiji.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影片", "连续剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "伦理片", "电影解说", "体育", "足球", "篮球", "网球", "斯诺克", "演员", "新闻资讯", "电影资讯", "娱乐新闻", "预告片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "360zy.com",
+		"name": "🎬360 资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/360zyzz?url=https://360zyzz.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "伦理片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "体育", "NBA", "惊悚片", "家庭篇", "古装片", "历史片", "悬疑片", "犯罪片", "灾难片", "纪录片", "短片", "动画片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "欧美动漫", "日韩动漫", "足球", "篮球", "未分类", "西部片", "爽文短剧", "现代都市", "脑洞悬疑", "年代穿越", "古装仙侠", "反转爽剧", "女频恋爱", "成长逆袭"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "jszyapi.com",
+		"name": "🎬极速资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/js?url=https://jszyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电视剧", "电影", "欧美剧", "香港剧", "韩剧", "日剧", "马泰剧", "伦理片", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "动漫", "内地剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "综艺", "台湾剧", "体育赛事", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "灾难片", "悬疑片", "犯罪片", "奇幻片", "短剧", "预告片", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "www.moduzy.net",
+		"name": "🎬魔都资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/mdzyapi?url=https://www.mdzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫", "电影", "连续剧", "综艺", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "惊悚片", "家庭片", "古装片", "历史片", "悬疑片", "犯罪片", "灾难片", "记录片", "短片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "短剧", "伦理片"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "ffzyapi.com",
+		"name": "🎬非凡资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/ffzyapi?url=https://api.ffzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影片", "连续剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "伦理片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "bfzy.tv",
+		"name": "🎬暴风资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/bf?url=https://bfzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影片", "动作片", "喜剧片", "恐怖片", "科幻片", "爱情片", "剧情片", "战争片", "纪录片", "理论片", "连续剧", "国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "动漫片", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "综艺片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "动画片", "电影解说", "预告片", "体育赛事", "足球", "篮球", "网球", "斯诺克", "短剧大全", "重生民国", "穿越年代", "现代言情", "反转爽文", "女恋总裁", "闪婚离婚", "都市脑洞", "古装仙侠", "福利"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "zuida.xyz",
+		"name": "🎬最大资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/zuidapi?url=https://api.zuidapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "纪录片", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说", "爽文短剧", "伦理", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "4K电影", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "邵氏电影", "Netflix电影", "Netflix自制剧", "擦边短剧", "科普学习", "漫剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "wujinzy.me",
+		"name": "🎬无尽资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/wujinapi?url=https://api.wujinapi.me/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "资讯", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "台湾剧", "美国剧", "公告", "头条", "伦理片", "纪录片", "韩国剧", "日本剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "悬疑片", "动画片", "犯罪片", "奇幻片", "邵氏电影", "泰剧", "体育赛事", "篮球", "影视解说", "短剧", "港台动漫", "海外动漫", "演唱会", "足球", "预告片", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "有声动漫", "女频恋爱", "反转爽剧", "脑洞悬疑", "年代穿越", "古装仙侠", "现代都市", "Netflix电影", "Netflix自制剧", "擦边短剧", "漫剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "xinlangapi.com",
+		"name": "🎬新浪资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/xinlangapi?url=https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "动漫", "综艺", "纪录片", "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "大陆剧", "港澳剧", "台湾剧", "欧美剧", "动漫电影", "韩剧", "日剧", "泰剧", "伦理片", "体育", "短剧", "预告片", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "api.wwzy.tv",
+		"name": "🎬旺旺资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/wwzy?url=https://api.wwzy.tv/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["短剧", "分类2", "分类3", "分类4", "教程", "子类1", "子类2", "子类3", "子类4", "子类5", "子类6", "子类7", "子类8", "子类9", "子类10", "子类11", "采集教程", "其他教程"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "www.subozy.com",
+		"name": "🎬速播资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/subocaiji?url=https://subocaiji.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "动漫", "综艺", "纪录片", "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "动漫电影", "大陆剧", "台湾剧", "韩剧", "美剧", "港澳剧", "日剧", "泰剧", "伦理片", "体育赛事", "中国动漫", "日本动漫", "欧美动漫", "短剧", "预告片", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "jinyingzy.com",
+		"name": "🎬金鹰点播",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/jinying?url=https://jinyingzy.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电视剧", "电影", "欧美剧", "香港剧", "韩剧", "日剧", "马泰剧", "伦理片", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "动漫", "内地剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "综艺", "台湾剧", "体育赛事", "短剧", "预告片", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "p2100.net",
+		"name": "🎬飘零资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/p2100?url=https://p2100.net/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "台湾剧", "日本剧", "韩国剧", "欧美剧", "海外剧", "短剧", "理论片", "纪录片", "邵氏大片", "站内新闻", "娱乐动态", "八卦爆料", "影片资讯", "动漫电影"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "api.ukuapi88.com",
+		"name": "🎬U酷影视",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/ukuapi88?url=https://api.ukuapi88.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港澳剧", "日剧", "欧美剧", "动漫电影", "台湾剧", "韩剧", "泰剧", "记录片", "伦理片", "资讯", "新闻资讯", "预告资讯", "影视资讯", "明星资讯", "短剧", "奇幻片", "犯罪片"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "api.guangsuapi.com",
+		"name": "🎬光速资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/guangsuapi?url=https://api.guangsuapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "剧情片", "恐怖片", "战争片", "大陆剧", "欧美剧", "港澳剧", "韩剧", "动漫电影", "日剧", "台湾剧", "泰剧", "记录片", "伦理片", "体育赛事", "短剧", "预告片", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "www.hongniuzy.com",
+		"name": "🎬红牛资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/hongniuzy2?url=https://www.hongniuzy2.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港澳剧", "日剧", "欧美剧", "台湾剧", "泰剧", "韩剧", "纪录片", "动漫电影", "伦理片", "体育赛事", "短剧", "预告片", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "caiji.moduapi.cc",
+		"name": "🎬魔都动漫",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/moduapi?url=https://caiji.moduapi.cc/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫", "电影", "连续剧", "综艺", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "惊悚片", "家庭片", "古装片", "历史片", "悬疑片", "犯罪片", "灾难片", "记录片", "短片", "国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "短剧", "伦理片"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "www.ryzyw.com",
+		"name": "🎬如意资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/rycjapi?url=https://cj.rycjapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影片", "连续剧", "综艺片", "动漫片", "喜剧片", "动作片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "伦理片", "电影解说", "体育", "足球", "篮球", "网球", "斯诺克", "预告片", "短剧", "动画电影"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "www.haohuazy.com",
+		"name": "🎬豪华资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/hh?url=https://hhzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电视剧", "电影", "欧美剧", "香港剧", "韩剧", "日剧", "马泰剧", "伦理片", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "动漫", "内地剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "综艺", "台湾剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "灾难片", "悬疑片", "犯罪片", "奇幻片", "短剧", "预告片", "体育赛事", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "bdzy1.com",
+		"name": "🎬百度云zy",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/apibdzy?url=https://api.apibdzy.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "大陆剧", "欧美剧", "韩剧", "日剧", "港澳剧", "台湾剧", "泰剧", "纪录片", "其他剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画电影", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说", "爽文短剧", "伦理", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "4K电影", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "邵氏电影"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "lovedan.net",
+		"name": "🎬艾旦影视",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/lovedan?url=https://lovedan.net/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "福利视频", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "犯罪片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "三级伦理", "网红主播", "动画电影", "剧情片", "纪录片", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "海外动漫", "海外剧", "大陆综艺", "明星", "福利图片", "爱蜜社", "头条女神", "美媛馆", "海外抖音", "嗲囡囡", "波萝社", "魅妍社", "爱尤物", "秀人网", "尤果网", "推女神", "DGC套图", "尤蜜荟", "模范学院", "尤物馆", "优星馆", "蜜桃社", "影私荟", "顽味生活", "星乐园", "花の颜", "御女郎", "糖果画报", "花漾", "星颜社", "画语界", "直播", "央视", "卫视", "短剧", "影视解说", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "预告片", "网络电影", "其他综艺"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "zy.sh0o.cn",
+		"name": "🎬山海资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/source?url=https://zy.sh0o.cn/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "zy.jinchancaiji.com",
+		"name": "🎬金蝉影视",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/source?url=https://zy.jinchancaiji.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "少儿", "纪录片", "短剧", "金蝉一次解析官解：https://json.jinchanjiexi.net:1994"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "lzizy.net",
+		"name": "🎬量子影视",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/lziapi?url=https://cj.lziapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影片", "连续剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "伦理片", "电影解说", "体育", "足球", "篮球", "网球", "斯诺克", "演员", "新闻资讯", "电影资讯", "娱乐新闻", "预告片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "zuidazy.co",
+		"name": "🎬最大点播",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/zuida?url=https://zuidazy.me/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "纪录片", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说", "爽文短剧", "伦理", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "4K电影", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "邵氏电影", "Netflix电影", "Netflix自制剧", "擦边短剧", "科普学习", "漫剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "wujinzy.com",
+		"name": "🎬无尽影视",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/wujinapi?url=https://api.wujinapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "资讯", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "台湾剧", "美国剧", "公告", "头条", "伦理片", "纪录片", "韩国剧", "日本剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "悬疑片", "动画片", "犯罪片", "奇幻片", "邵氏电影", "泰剧", "体育赛事", "篮球", "影视解说", "短剧", "港台动漫", "海外动漫", "演唱会", "足球", "预告片", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "有声动漫", "女频恋爱", "反转爽剧", "脑洞悬疑", "年代穿越", "古装仙侠", "现代都市", "Netflix电影", "Netflix自制剧", "擦边短剧", "漫剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "wwzy.tv",
+		"name": "🎬旺旺短剧",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/ww?url=https://wwzy.tv/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["短剧", "分类2", "分类3", "分类4", "教程", "子类1", "子类2", "子类3", "子类4", "子类5", "子类6", "子类7", "子类8", "子类9", "子类10", "子类11", "采集教程", "其他教程"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "1080zyk4.com",
+		"name": "🎬优质资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/yzzyapi?url=https://api.yzzy-api.com/inc/apijson.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "台湾剧", "韩国剧", "欧美剧", "香港剧", "泰国剧", "日本剧", "福利", "记录片", "动画片", "海外剧", "倫理片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "搞笑", "音乐", "影视", "汽车", "短剧大全", "预告片", "预告片", "体育"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "www.huyaapi.com",
+		"name": "🎬虎牙资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/huyaapi?url=https://www.huyaapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电视剧", "电影", "欧美剧", "香港剧", "韩剧", "日剧", "马泰剧", "伦理片", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "动漫", "内地剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "综艺", "台湾剧", "体育赛事", "短剧", "预告片", "足球", "篮球", "台球", "其他赛事"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "yayazy3.com",
+		"name": "🎬鸭鸭资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/yayazy?url=https://cj.yayazy.net/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "纪录片", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说", "爽文短剧", "伦理", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "4K电影", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "邵氏电影", "Netflix电影", "Netflix自制剧", "擦边短剧", "科普学习", "漫剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "suonizy.net",
+		"name": "🎬索尼资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/suoni?url=https://suoniapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "纪录片", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说", "爽文短剧", "伦理", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "4K电影", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "邵氏电影", "Netflix电影", "Netflix自制剧", "擦边短剧", "预告解说", "科普学习", "漫剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "kuaichezy.com",
+		"name": "🎬快车资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/kuaichezy?url=https://caiji.kuaichezy.org/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "纪录片", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说", "爽文短剧", "伦理", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "4K电影", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "邵氏电影", "Netflix电影", "Netflix自制剧", "擦边短剧", "科普学习", "漫剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "shandianzy.com",
+		"name": "🎬闪电资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/xsd?url=https://xsd.sdzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "纪录片", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说", "爽文短剧", "伦理", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "4K电影", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "邵氏电影", "Netflix电影", "Netflix自制剧", "科普学习", "擦边短剧", "漫剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "yhzy.cc",
+		"name": "🎬樱花资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/m3u8?url=https://m3u8.apiyhzy.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "连续剧", "综艺", "动漫", "资讯", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "台湾剧", "韩国剧", "公告", "头条", "犯罪片", "纪录片", "动画电影", "日本剧", "欧美剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日本动漫", "欧美动漫", "海外动漫", "伦理片"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "91md.me",
+		"name": "🔞麻豆视频",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/91md?url=https://91md.me/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["麻豆视频", "91制片厂", "天美传媒", "蜜桃传媒", "皇家华人", "星空传媒", "精东影业", "乐播传媒", "成人头条", "乌鸦传媒", "兔子先生", "杏吧原创", "玩偶姐姐", "mini传媒", "大象传媒", "开心鬼传媒", "PsychoPorn", "糖心Vlog", "萝莉社", "性视界"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "91jpzyw.com",
+		"name": "🔞91-精品-",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/91jpzyw?url=https://91jpzyw.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "lbapiby.com",
+		"name": "🔞--AIvin-",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/lbapiby?url=http://lbapiby.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["亚洲情色", "国产主播", "国产自拍", "无码专区", "欧美性爱", "熟女人妻", "强奸乱伦", "巨乳美乳", "中文字幕", "制服诱惑", "女同性恋", "卡通动画", "视频伦理", "少女萝莉", "重口色情", "人兽性交", "暴力虐待", "学生校园", "玄幻仙侠", "明星偶像", "生活都市", "不伦恋情", "经验故事", "科学幻想", "唯美清纯", "网友自拍", "亚洲性爱", "欧美激情", "露出偷窥", "高跟丝袜", "卡通漫画", "Gif动图", "福利姬"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "155zy2.com",
+		"name": "🔞155-资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/155?url=https://155api.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["无码专区", "麻豆传媒", "制服诱惑", "三级伦理", "AI换脸", "中文字幕", "卡通动漫", "欧美系列", "美女主播", "国产自拍", "熟女人妻", "萝莉少女", "女同性爱", "多人群交", "美乳巨乳", "强奸乱伦", "生活都市", "不偷恋情", "学生校园", "人妻熟女", "暴力虐待", "明星偶像", "玄幻仙侠", "科学幻想", "街拍偷拍", "丝袜美腿", "欧美风情", "网友自拍", "卡通漫画", "露出激情", "唯美写真", "女优情报", "抖音视频", "韩国主播", "网红头条", "网爆黑料", "欧美无码", "女优明星", "SM调教", "AV解说"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "apiyutu.com",
+		"name": "🔞玉兔资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/apiyutu?url=https://apiyutu.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["精品推荐", "国产精品", "主播秀色", "日本有码", "日本无码", "中文字幕", "童颜巨乳", "性感人妻", "强奸乱伦", "欧美情色", "三级伦理", "卡通动漫", "丝袜OL", "自拍偷拍", "日本片商", "剧情介绍", "网曝系列", "麻豆传媒", "明星换脸", "国产乱伦", "国产丝袜", "国产SM", "国产人妻", "探花嫖娼", "同性恋"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "fhapi9.com",
+		"name": "🔞番号资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/fhapi9?url=http://fhapi9.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["制服丝袜", "群交淫乱", "无码专区", "偷拍自拍", "卡通动漫", "中文字幕", "欧美性爱", "巨乳美乳", "国产裸聊", "国产自拍", "国产盗摄", "伦理三级", "女同性恋", "少女萝莉", "人妖系列", "虚拟VR", "亚州图片", "欧美图片", "美腿丝袜", "网友自拍", "清纯唯美", "另类图片", "卡通贴图", "熟女乱伦", "现代激情", "古典武侠", "暴力强奸", "校园春色", "家庭乱伦", "长篇连载", "情色幽默", "淫妻交换"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "apilsbzy1.com",
+		"name": "🔞-老色逼-",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/apilsbzy1?url=https://apilsbzy1.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["视频一区", "视频二区", "亚洲有码", "亚洲无码", "制服诱惑", "强奸乱伦", "巨乳美乳", "明星换脸", "中文字幕", "角色扮演", "日本女优", "成人动漫", "欧美激情", "三级片", "网曝视频", "AV解说", "国产传媒", "主播直播", "国产精品", "国产探花", "视频三区", "国产乱伦", "国产丝袜", "国产SM", "国产人妻", "自拍偷拍", "同性恋"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "www.yyzywcj.com",
+		"name": "🔞优优资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/yyzywcj?url=https://www.yyzywcj.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产自拍", "美女正妹", "探花系列", "国产高清", "国产传媒", "情趣综艺", "热门事件", "日本无码", "中文字幕", "角色剧情", "动漫番剧", "制服誘惑", "凌辱強暴", "丝袜美腿", "AV解说"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "xiaojizy.live",
+		"name": "🔞小鸡资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/xiaojizy?url=https://api.xiaojizy.live/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产自拍", "日韩AV", "欧美精品", "异族风情", "动漫专栏", "强奸迷奸", "丝袜制服", "国产厂牌", "SM调教", "乱伦", "网曝黑料", "主播网红", "自拍偷拍", "口交自慰", "群交多P", "AI换脸", "素人特摄", "无码高清", "经典有码", "中文字幕", "性感网红", "重口调教", "厂牌经典", "人兽", "其他", "东南亚", "阿拉伯", "印巴拉丁", "激情H漫", "3D", "国产三级", "学生萝莉", "日韩三级", "蓝光超清", "日韩精选", "国产精选", "欧美精选", "VR专区"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "hsckzy.xyz",
+		"name": "🔞黄色仓库",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/hsck?url=https://hsckzy.xyz/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产区", "AV区", "欧美区", "动漫区", "网红主播", "国产传媒", "探花系列", "人妻熟女", "日本无码", "美乳巨乳", "强制侵犯", "制服诱惑", "绝色佳人", "风俗泡泡浴", "家庭乱伦", "AV解说", "三级电影", "少女萝莉", "SM调教", "绝顶潮吹", "魔镜系列", "时间停止", "催眠洗脑", "漫改系列", "电车痴汉", "淫欲痴女", "AI换脸", "其他区", "网曝门", "TS专区", "女性向系列", "女同性恋", "男同性恋", "欧美精品", "国产自拍", "日本动漫", "3D动漫", "韩国主播", "泰国风情", "OnlyFans"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "apidanaizi.com",
+		"name": "🔞-大奶子-",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/apidanaizi?url=https://apidanaizi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["视频一区", "视频二区", "视频三区", "视频四区", "精品推荐", "国产主播", "国产乱伦", "自拍偷拍", "制服丝袜", "网曝事件", "传媒探花", "清纯学生", "A V 解说", "淫妻作乐", "港台辣妹", "足浴撩妹", "反差母狗", "A I 换脸", "V R 视角", "重口性癖", "制服诱惑", "丝袜美腿", "中文字幕", "无码流出", "多人群交", "凌辱快感", "角色剧情", "强奸乱伦", "韩国三级", "欧美激情", "人妻熟女", "主奴调教", "动漫卡通", "变性伪娘", "女同性恋", "野外露出"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "jkunzyapi.com",
+		"name": "🔞jkun资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/jkun?url=https://jkunzyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["中文字幕", "日本有码", "日本无码", "AV解说", "cosplay", "都市激情", "校园情事", "人妻纵情", "风俗伦理", "另类小说", "武侠古典", "长篇连载", "黑丝诱惑", "SWAG", "自拍偷拍", "激情动漫", "网红主播", "探花系列", "三级伦理", "VR视角", "国产传媒", "素人搭讪", "门事件", "抖阴视频"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "lbapi9.com",
+		"name": "🔞乐播资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/lbapi9?url=https://lbapi9.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["亚洲情色", "国产主播", "国产自拍", "无码专区", "欧美性爱", "熟女人妻", "强奸乱伦", "巨乳美乳", "中文字幕", "制服诱惑", "女同性恋", "卡通动画", "视频伦理", "少女萝莉", "重口色情", "人兽性交", "暴力虐待", "学生校园", "玄幻仙侠", "明星偶像", "生活都市", "不伦恋情", "经验故事", "科学幻想", "唯美清纯", "网友自拍", "亚洲性爱", "欧美激情", "露出偷窥", "高跟丝袜", "卡通漫画", "Gif动图", "福利姬"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "Naixxzy.com",
+		"name": "🔞奶香资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/naixx?url=https://Naixxzy.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["精品国产", "精品日韩", "精品综合", "精品小说", "精品美图", "国产自拍", "主播诱惑", "探花约炮", "偷拍偷窥", "网曝吃瓜", "抖阴短片", "传媒剧情", "日韩主播", "日韩无码", "中文字幕", "AV解说", "换脸明星", "强奸乱伦", "女优明星", "欧美激情", "重口激情", "三级伦理", "剧情动漫", "SM调教", "女同性恋", "VR视角", "都市言情", "暴力侵犯", "家庭伦伦", "性感身体", "角色扮演", "福利姬", "漫画连载"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "slapibf.com",
+		"name": "🔞森林资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/beiyong?url=https://beiyong.slapibf.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["精品推荐", "国产色情", "主播直播", "亚洲无码", "亚洲有码", "中文字幕", "巨乳美乳", "人妻熟女", "强奸乱伦", "欧美精品", "萝莉少女", "伦理三级", "成人动漫", "自拍偷拍", "制服丝袜", "口交颜射", "日本精品", "Cosplay", "素人自拍", "台湾辣妹", "韩国御姐", "唯美港姐", "东南亚AV", "欺辱凌辱", "剧情介绍", "多人多P", "91探花", "网红流出", "野外露出", "古装扮演", "女优系列", "可爱学生", "风情旗袍", "兽耳系列", "瑜伽裤", "闷骚护士", "过膝袜", "网曝门", "传媒出品", "女同性恋", "男同性恋", "恋腿狂魔", "都市激情", "校园情事", "人妻縱情", "風俗倫理", "另类小说", "武侠古典", "长篇连载", "唯美写真", "网友自拍", "露出激情", "街拍偷拍", "丝袜美腿", "卡通漫画", "欧美风情"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "apilj.com",
+		"name": "🔞辣椒资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/apilj?url=https://apilj.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产自拍", "欧美极品", "日韩无码", "AV明星", "公告", "头条", "中文字幕", "动漫精品", "极骚萝莉", "人妖视频", "重咸口味", "三级自慰", "强奸乱伦", "独家擂台格斗", "辣椒GIGA", "HEYZO", "独家DMM", "HEY诱惑", "童颜巨乳", "高潮喷吹", "激情口交", "绝美少女", "首次亮相", "柚木TINA", "原纱央莉", "大桥未久", "AV明星1", "仁科百华", "天海翼", "小川阿佐美", "三上悠亚", "长泽梓"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "shayuapi.com",
+		"name": "🔞鲨鱼资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/shayu?url=https://shayuapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产情色", "日本无码", "AV明星", "中文字幕", "网红主播", "成人动漫", "欧美情色", "国模私拍", "长腿丝袜", "邻家人妻", "韩国伦理", "香港伦理", "精品推荐", "原纱央莉", "柚木TINA", "大桥未久", "AV明星1", "仁科百华", "天海翼", "小川阿佐美", "三上悠亚", "长泽梓"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "xzytv.com",
+		"name": "🔞-幸资源-",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/xzybb2?url=https://xzybb2.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "doudouzy.com",
+		"name": "🔞豆豆资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/douapi?url=https://api.douapi.cc/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["采集教程", "国产视频", "国产传媒", "国产探花", "极品学生", "野战户外", "网曝黑料", "日本有码", "主播大秀", "校园春色", "SM虐待", "巨乳系列", "偷拍自拍", "强奸乱伦", "制服诱惑", "欧美精品", "AV女优", "明星爆料", "三级伦理", "AV解说", "成人动漫", "日本无码", "重口猎奇", "VR视频", "少妇人妻", "角色扮演", "女同性恋", "黑人专区", "中文字幕", "男同性恋", "反差系列", "精品短视频"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "didizy.com",
+		"name": "🔞滴滴资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/ddapi?url=https://api.ddapi.cc/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产专区", "国产厂商", "主播视讯", "日本无码", "日本有码", "中文字幕", "中字无码", "中字有码", "水果派解说", "麻豆传媒", "91制片厂", "蜜桃影像传媒", "天美传媒", "精东影业", "星空无限传媒", "台湾swag", "其他传媒", "三级伦理", "美女写真", "卡通动漫", "采集教程", "葫芦影业", "糖心Vlog", "欧美性爱", "黑料事件", "SM调教", "女同系列", "男同系列"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "heiliaozy.cc",
+		"name": "🔞黑料资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/heiliaozyapi?url=https://www.heiliaozyapi.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["中文字幕", "日本有码", "日本无码", "AV解说", "cosplay", "都市激情", "校园情事", "人妻纵情", "风俗伦理", "另类小说", "武侠古典", "长篇连载", "黑丝诱惑", "SWAG", "自拍偷拍", "激情动漫", "网红主播", "探花系列", "三级伦理", "VR视角", "国产传媒", "素人搭讪", "门事件", "抖阴视频"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "api.bwzym3u8.com",
+		"name": "🔞百万资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/bwzyz?url=https://api.bwzyz.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["百万一区", "国产视频", "国产主播", "91大神", "热门事件", "传媒自拍", "百万二区", "日本有码", "日本无码", "日韩主播", "动漫肉番", "女同性恋", "中文字幕", "强奸乱伦", "熟女人妻", "制服诱惑", "AV解说", "女星换脸", "百万三区", "欧美精品"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "thzy8.me",
+		"name": "🔞桃花资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/thzy1?url=https://thzy1.me/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["视频1区", "国产精品", "华语AV", "黑料吃瓜", "欧美", "禁漫", "视频2区", "学生", "乱伦", "探花", "日本无码", "日本有码", "主播网红", "日本素人"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "www.jingpinx.com",
+		"name": "🔞精品资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/jingpinx?url=https://www.jingpinx.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产", "日本", "欧美", "动漫", "偷拍自拍", "国产大制作", "乱伦毁三观", "嫖妓全过程", "淫乱学生妹", "黑料不打烊", "监控摄像头", "主播网红", "高清无码", "中文字幕", "成人综艺", "媚黑母狗", "为国争光", "少女破处", "人兽典藏", "中文剧情", "燃烧荷尔蒙", "女同口交", "重口味", "3D动漫", "剧情故事", "同人动漫", "激情中字", "东南亚"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "ckzy.me",
+		"name": "🔞 CK-资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/ck?url=https://ckzy.me/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["伦理片", "教程"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "souavzyw.com",
+		"name": "🔞souavZY",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/souavzyw?url=https://api.souavzyw.net/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["中文传媒", "国产", "欧美AV", "日本AV", "传媒-麻豆传媒", "传媒-精东影业", "传媒-蜜桃传媒", "传媒-果冻传媒", "传媒-星空无限传媒", "传媒-SA国际传媒", "传媒-性视界传媒", "国产-自拍", "国产-偷拍", "国产-探花", "国产-主播", "传媒-天美传媒", "欧美-高清无码", "欧美-高清有码", "日本-中文字幕", "日本-无码流出", "日本-高清有码", "传媒-皇家华人", "欧美-中文字幕", "明星网黄", "刘玥", "玩偶姐姐", "动漫", "台湾粉红兔", "吃瓜黑料", "变态暗网", "小众口味", "男同", "小众女同", "TS人妖", "传媒-扣扣传媒", "恐怖色情", "人兽杂交", "迷奸强奸", "重口味", "传媒-91传媒", "传媒-杏吧传媒", "传媒-起点传媒", "传媒-CCAV成人头条", "传媒-渡边传媒", "传媒-辣椒原创", "传媒-红斯灯影像", "传媒-情欲国潮", "传媒-糖心传媒", "传媒-乐播传媒", "传媒-葫芦影业", "传媒-其他传媒", "伦理道德", "热门大瓜", "学生校园", "领导官员", "裸贷黑料", "白虎萌妹", "国产-节目企划", "动漫-黄漫", "动漫-里番中字", "AV解说", "水果派", "短视频", "SM虐待", "NTR 绿帽", "国产-网红", "国产-户外", "国产-吃瓜", "AI换脸", "重口味", "日本-东京热", "日本-一本道", "国产-台湾JVID", "韩国AV", "韩国-主播", "吃瓜资讯", "必看大瓜", "网红黑料", "学生校园", "海外吃瓜", "偷拍自拍", "道德伦理", "吃瓜新闻", "直播大秀", "日本-素人"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "www.xxibaozyw.com",
+		"name": "🔞细胞资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/xxibaozyw?url=https://www.xxibaozyw.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["热门视频", "国产色情", "日本无码", "自拍偷拍", "视频一区", "人妻熟女", "黑人洋屌", "欧美精品", "卡通动漫", "视频二区", "乱伦中出", "传媒原创", "口爆颜射", "岛国女优", "萝莉少女", "重口调教", "视频三区", "国产直播", "岛国群交", "日本有码", "中文字幕", "岛国素人", "吃瓜爆料", "角色扮演", "淫娃自慰", "视频四区", "公开漏出", "韩国直播", "户外打野", "高潮喷水", "电车痴汉", "AI换脸", "AV解说", "伦理三级"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "xiangjiaozyw.com",
+		"name": "🔞香蕉资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/xiangjiaozyw?url=https://www.xiangjiaozyw.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["热门视频", "国产色情", "日本无码", "自拍偷拍", "视频一区", "人妻熟女", "黑人洋屌", "欧美精品", "卡通动漫", "视频二区", "乱伦中出", "传媒原创", "口爆颜射", "岛国女优", "萝莉少女", "重口调教", "视频三区", "国产直播", "岛国群交", "日本有码", "中文字幕", "岛国素人", "吃瓜爆料", "角色扮演", "淫娃自慰", "视频四区", "公开漏出", "韩国直播", "户外打野", "高潮喷水", "电车痴汉", "AI换脸", "AV解说", "伦理三级"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "www.msnii.com",
+		"name": "🔞-美少女-",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/msnii?url=https://www.msnii.com/api/json.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "www.pgxdy.com",
+		"name": "🔞-黄AVZY",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/pgxdy?url=https://www.pgxdy.com/api/json.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "www.kxgav.com",
+		"name": "🔞白嫖资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/kxgav?url=https://www.kxgav.com/api/json.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "xingba111.com",
+		"name": "🔞杏吧资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/xingba222?url=https://xingba222.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["日韩无码", "国产精品", "日韩精品", "欧美精品", "动漫精品", "自拍偷拍", "伦理影片", "中文字幕", "人妻系列", "制服诱惑", "强奸乱伦", "AV明星", "SM重味", "巨乳系列", "颜射系列", "口交视频", "自慰系列", "教师学生", "大秀视频", "明星换脸", "AV解说", "黑料网曝", "精品探花", "精品网红", "反差母狗", "颜值正义", "熟女少妇", "人兽乱交", "国产传媒"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "dadizy11.com",
+		"name": "🔞大地资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/dadi?url=https://dadiapi.com/feifei",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["电影", "电视剧", "综艺", "动漫", "纪录片", "短剧"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "semaozy1.com",
+		"name": "🔞色猫资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/semaozy?url=https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产自拍", "日本无码", "日本有码", "中文字幕", "欧美精品", "成人动漫", "日本素人", "高清名优", "三级伦理", "网红主播", "映画传媒", "人妻熟女", "口爆颜射", "萝莉少女", "SM调教", "美乳巨乳", "短视频", "制服诱惑", "女同性爱", "AI换脸", "多人群交", "翹臀美尻", "丝袜美腿", "精选独家", "貧乳小奶", "探花系列", "AV解说"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "aosikazy.com",
+		"name": "🔞-奥斯卡-",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/aosika?url=https://aosikazy.com/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["国产视频", "中文字幕", "国产传媒", "日本有码", "日本无码", "欧美无码", "强奸乱伦", "制服诱惑", "国产主播", "激情动漫", "明星换脸", "抖阴视频", "女优明星", "视频一区", "视频二区", "网曝黑料", "视频三区", "伦理三级", "AV解说", "SM调教", "萝莉少女", "极品媚黑", "女同性恋", "网红头条", "视频四区", "人妖系列", "韩国主播", "VR视角"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}, {
+		"key": "siwazyw.tv",
+		"name": "🔞丝袜资源",
+		"type": 1,
+		"api": "https://cors.zqk219.dpdns.org/p/siwazyw?url=https://siwazyw.tv/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"changeable": 1,
+		"ext": "",
+		"playerUrl": "",
+		"hide": 0,
+		"categories": ["亚洲无码", "亚洲有码", "欧美情色", "中文字幕", "动漫卡通", "美女主播", "人妻熟女", "强奸乱伦", "日韩伦理", "国产自拍", "网友自拍", "卡通漫画", "露出激情", "亚洲性爱", "丝袜美腿", "欧美风情", "清纯唯美", "科学幻想", "学生校园", "玄幻仙侠", "GIF动图", "精选口爆", "同性同志", "重口味", "经验故事", "明星偶像", "不伦恋情", "暴力虐待", "生活都市", "美女写真", "韩国主播", "JAV 4K", "91大神", "AV解说", "国外热门资源", "精品海外欧美资源", "精品海外亚洲资源"],
+		"header": {
+			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+			"Accept": "application/json, text/plain, */*",
+			"Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+			"Cache-Control": "no-cache",
+			"Connection": "close"
+		},
+		"timeout": 10000,
+		"retry": 2
+	}],
+	"parses": [{
+		"name": "Json并发",
+		"type": 2,
+		"url": "Parallel"
+	}, {
+		"name": "Json轮询",
+		"type": 2,
+		"url": "Sequence"
+	}, {
+		"name": "LunaTV内置解析",
+		"type": 1,
+		"url": "https://zqk219.zeabur.app/api/parse?url=",
+		"ext": {
+			"flag": ["qiyi", "qq", "letv", "sohu", "youku", "mgtv", "bilibili", "wasu", "xigua", "1905"]
+		}
+	}],
+	"flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "腾讯", "爱奇艺", "奇艺", "乐视", "搜狐", "土豆", "PPTV", "芒果", "华数", "哔哩", "1905"],
+	"ijk": [{
+		"group": "软解码",
+		"options": [{
+			"category": 4,
+			"name": "opensles",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "overlay-format",
+			"value": "842225234"
+		}, {
+			"category": 4,
+			"name": "framedrop",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "start-on-prepared",
+			"value": "1"
+		}, {
+			"category": 1,
+			"name": "http-detect-range-support",
+			"value": "0"
+		}, {
+			"category": 1,
+			"name": "fflags",
+			"value": "fastseek"
+		}, {
+			"category": 4,
+			"name": "reconnect",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "enable-accurate-seek",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec-auto-rotate",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec-handle-resolution-change",
+			"value": "0"
+		}, {
+			"category": 2,
+			"name": "skip_loop_filter",
+			"value": "48"
+		}, {
+			"category": 4,
+			"name": "packet-buffering",
+			"value": "0"
+		}, {
+			"category": 1,
+			"name": "analyzeduration",
+			"value": "2000000"
+		}, {
+			"category": 1,
+			"name": "probesize",
+			"value": "10485760"
+		}, {
+			"category": 1,
+			"name": "flush_packets",
+			"value": "1"
+		}]
+	}, {
+		"group": "硬解码",
+		"options": [{
+			"category": 4,
+			"name": "opensles",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "overlay-format",
+			"value": "842225234"
+		}, {
+			"category": 4,
+			"name": "framedrop",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "start-on-prepared",
+			"value": "1"
+		}, {
+			"category": 1,
+			"name": "http-detect-range-support",
+			"value": "0"
+		}, {
+			"category": 1,
+			"name": "fflags",
+			"value": "fastseek"
+		}, {
+			"category": 4,
+			"name": "reconnect",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "enable-accurate-seek",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "mediacodec-auto-rotate",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "mediacodec-handle-resolution-change",
+			"value": "1"
+		}, {
+			"category": 2,
+			"name": "skip_loop_filter",
+			"value": "48"
+		}, {
+			"category": 4,
+			"name": "packet-buffering",
+			"value": "0"
+		}, {
+			"category": 1,
+			"name": "analyzeduration",
+			"value": "2000000"
+		}, {
+			"category": 1,
+			"name": "probesize",
+			"value": "10485760"
+		}]
+	}],
+	"lives": [],
+	"ads": ["mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com", "mc.usihnbcq.cn", "mg.g1mm3d.cn", "mscs.svaeuzh.cn", "cnzz.hhurm.com", "tp.vinuxhome.com", "cnzz.mmstat.com", "www.baihuillq.com", "s23.cnzz.com", "z3.cnzz.com", "c.cnzz.com", "stj.v1vo.top", "z12.cnzz.com", "img.mosflower.cn", "tips.gamevvip.com", "ehwe.yhdtns.com", "xdn.cqqc3.com", "www.jixunkyy.cn", "sp.chemacid.cn", "hm.baidu.com", "s9.cnzz.com", "z6.cnzz.com", "um.cavuc.com", "mav.mavuz.com", "wofwk.aoidf3.com", "z5.cnzz.com", "xc.hubeijieshikj.cn", "tj.tianwenhu.com", "xg.gars57.cn", "k.jinxiuzhilv.com", "cdn.bootcss.com", "ppl.xunzhuo123.com", "xomk.jiangjunmh.top", "img.xunzhuo123.com", "z1.cnzz.com", "s13.cnzz.com", "xg.huataisangao.cn", "z7.cnzz.com", "z2.cnzz.com", "s96.cnzz.com", "q11.cnzz.com", "thy.dacedsfa.cn", "xg.whsbpw.cn", "s19.cnzz.com", "z8.cnzz.com", "s4.cnzz.com", "f5w.as12df.top", "ae01.alicdn.com", "www.92424.cn", "k.wudejia.com", "vivovip.mmszxc.top", "qiu.xixiqiu.com", "cdnjs.hnfenxun.com", "cms.qdwght.com"],
+	"doh": [{
+		"name": "阿里DNS",
+		"url": "https://dns.alidns.com/dns-query",
+		"ips": ["223.5.5.5", "223.6.6.6"]
+	}, {
+		"name": "腾讯DNS",
+		"url": "https://doh.pub/dns-query",
+		"ips": ["119.29.29.29", "119.28.28.28"]
+	}, {
+		"name": "Google DNS",
+		"url": "https://dns.google/dns-query",
+		"ips": ["8.8.8.8", "8.8.4.4"]
+	}],
+	"spider_url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+	"spider_md5": "a747194acf234c9e3f8e102fdc902970",
+	"spider_cached": true,
+	"spider_real_size": 281287,
+	"spider_tried": 1,
+	"spider_success": true,
+	"spider_backup": "https://zqk219.zeabur.app/api/proxy/spider.jar",
+	"spider_candidates": ["https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar", "https://raw.githubusercontent.com/qlql765/CatVodTVSpider-by-zhixc/main/jar/custom_spider.jar", "https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar", "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar", "https://cors.isteed.cc/github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar", "https://hub.gitmirror.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"]
+}
