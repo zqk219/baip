@@ -2563,12 +2563,12 @@
 		"url": "https://dns.google/dns-query",
 		"ips": ["8.8.8.8", "8.8.4.4"]
 	}],
-	"spider_url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+	"spider_url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/zqk219/baip/main/custom_spider.jar",
 	"spider_md5": "a747194acf234c9e3f8e102fdc902970",
 	"spider_cached": true,
 	"spider_real_size": 281287,
 	"spider_tried": 1,
 	"spider_success": true,
-	"spider_backup": "https://zqk219.zeabur.app/api/proxy/spider.jar",
-	"spider_candidates": ["https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar", "https://raw.githubusercontent.com/qlql765/CatVodTVSpider-by-zhixc/main/jar/custom_spider.jar", "https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar", "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar", "https://cors.isteed.cc/github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar", "https://hub.gitmirror.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"]
+	"spider_backup": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/zqk219/baip/main/custom_spider.jar",
+	"spider_candidates": ["https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/zqk219/baip/main/custom_spider.jar", "https://raw.githubusercontent.com/qlql765/CatVodTVSpider-by-zhixc/main/jar/custom_spider.jar", "https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar", "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar", "https://cors.isteed.cc/github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar", "https://hub.gitmirror.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"]
 }
