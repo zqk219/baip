@@ -2,25 +2,7 @@
   "spider": "./lib/spider.jar;md5;bd0990798869b7c5fb301fefc9f52330",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "lives": [
-    {
-      "name": "catvod",
-      "type": 0,
-      "url": "https://live.catvod.com/?tk=56cc697aafe8813064c73b50e93f0f36",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
-    {
-      "name": "肥羊",
-      "type": 0,
-      "url": "https://live.ottiptv.cc/iptv.m3u?userid=6809634413&sign=de8455e4bfb7d8633ccd27febd2e47802950031a0591d96d8165a47d2d1c643675bbb0b732e8c6cf6290838d6a7083cd6e9a1f0071ed3824b2ffee4a083e2f6d6885763d03d5e5&auth_token=b51a62d3032914b55e0689a505e7586a",
-      "ua": "okHttp/Mod-1.5.0.0",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
-    {
-      "name": "萧雨萌萌",
-      "type": 0,
-      "url": "http://45.192.97.170:5211/498796",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
+   
     {
       "name": "萧雨央卫",
       "type": 0,
