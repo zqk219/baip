@@ -477,77 +477,15 @@
   ],
   "lives": [
     {
-      "name": "catvod",
+      "name": "Kimentanm",
       "type": 0,
-      "url": "https://live.catvod.com/?tk=56cc697aafe8813064c73b50e93f0f36",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+      "url": "https://0.wudaozhe.net/tvbox/lives/Kimentanm.txt"
     },
     {
-      "name": "肥羊",
+      "name": "develop202",
       "type": 0,
-      "url": "https://live.ottiptv.cc/iptv.m3u?userid=6809634413&sign=de8455e4bfb7d8633ccd27febd2e47802950031a0591d96d8165a47d2d1c643675bbb0b732e8c6cf6290838d6a7083cd6e9a1f0071ed3824b2ffee4a083e2f6d6885763d03d5e5&auth_token=b51a62d3032914b55e0689a505e7586a",
-      "ua": "okHttp/Mod-1.5.0.0",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
-    {
-      "name": "萧雨萌萌",
-      "type": 0,
-      "url": "http://45.192.97.170:5211/498796",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
-    {
-      "name": "萧雨央卫",
-      "type": 0,
-      "url": "https://xymm.1000s.dpdns.org/iptv",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
-    {
-      "name": "日后",
-      "type": 0,
-      "url": "http://rihou.cc:555/gggg.nzk",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
-    {
-      "name": "yf2025",
-      "type": 0,
-      "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
-    {
-      "name": "裤佬",
-      "type": 0,
-      "url": "https://iptv.445569.xyz/live.m3u",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
-    {
-      "name": "webview",
-      "type": 0,
-      "url": "https://d.kstore.dev/download/17020/wangye.txt",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
-    {
-      "name": "哔哩哔哩",
-      "type": 0,
-      "url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
-    {
-      "name": "虎牙",
-      "type": 0,
-      "url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
-    {
-      "name": "斗鱼",
-      "type": 0,
-      "url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-    },
-    {
-      "name": "yy轮播",
-      "type": 0,
-      "url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u",
-      "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+      "url": "https://0.wudaozhe.net/tvbox/lives/develop202.txt",
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}"
     }
   ],
   "rules": [
