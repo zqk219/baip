@@ -2,6 +2,7 @@
 { "url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/zqk219/baip/refs/heads/main/tvbox/肥猫/api.json", "name": "肥猫" },
 { "url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/zqk219/baip/refs/heads/main/tvbox/小米/api.json", "name": "小米" },
 { "url": "https://zwt114.cc.cd/api/tvbox?format=json&mode=safe&filter=off", "name": "zeabur" },
+  { "url": "https://zwt114.cc.cd/api/tvbox?format=json&mode=safe&filter=off", "name": "zeabur本地" },
 { "url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/zqk219/baip/refs/heads/main/tvbox/王二小/api.json", "name": "王二小" },
 { "url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/zqk219/baip/refs/heads/main/tvbox/摸鱼儿/api.json", "name": "摸鱼儿" },
 { "url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/zqk219/baip/refs/heads/main/tvbox/集多/api.json", "name": "集多" },
