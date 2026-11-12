@@ -477,15 +477,101 @@
   ],
   "lives": [
     {
-      "name": "Kimentanm",
+      "name": "远程dockermigu",
       "type": 0,
-      "url": "https://0.wudaozhe.net/tvbox/lives/Kimentanm.txt"
+      "url": "http://migu.fy981.cc.cd",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
     },
     {
-      "name": "develop202",
+      "name": "远程ysp",
       "type": 0,
-      "url": "https://0.wudaozhe.net/tvbox/lives/develop202.txt",
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}"
+      "url": "https://ysp.fy981.dpdns.org/all.m3u",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "肥羊",
+      "type": 0,
+      "url": "https://live.ottiptv.cc/iptv.m3u?userid=6809634413&sign=de8455e4bfb7d8633ccd27febd2e47802950031a0591d96d8165a47d2d1c643675bbb0b732e8c6cf6290838d6a7083cd6e9a1f0071ed3824b2ffee4a083e2f6d6885763d03d5e5&auth_token=b51a62d3032914b55e0689a505e7586a",
+      "ua": "qqlive",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "四川移动",
+      "type": 0,
+      "url": "http://110.40.170.5:8890/zhth/output/四川移动zb.txt",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "catvod",
+      "type": 0,
+      "url": "https://live.catvod.com/playlist.m3u?tk=0775eb850f43a14777e9e4ee28951692",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "日后",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "yf2025",
+      "type": 0,
+      "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "裤佬",
+      "type": 0,
+      "url": "https://iptv.445569.xyz/live.m3u",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "ysp本地",
+      "type": 0,
+      "url": "http://192.168.2.231:8767/all.m3u",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "dockermigu",
+      "type": 0,
+      "url": "http://192.168.2.231:1234",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "hotel",
+      "type": 0,
+      "url": "https://epg.zqk219.cc.cd/hotel_tvn.m3u",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "webview",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/17020/wangye.txt",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "哔哩哔哩",
+      "type": 0,
+      "url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "虎牙",
+      "type": 0,
+      "url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "斗鱼",
+      "type": 0,
+      "url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "yy轮播",
+      "type": 0,
+      "url": "https://proxy.zqk219.dpdns.org/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u",
+      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
     }
   ],
   "rules": [
