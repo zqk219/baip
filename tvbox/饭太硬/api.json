@@ -631,13 +631,13 @@
    {
       "name": "远程dockermigu",
       "type": 0,
-      "url": "http://migu.zqk219.dpdns.org",
+      "url": "http://migu.fy981.dpdns.org",
       "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
     },
     {
       "name": "远程ysp",
       "type": 0,
-      "url": "https://ysp.zqk219.dpdns.org/all.m3u",
+      "url": "https://ysp.fy981.dpdns.org/all.m3u",
       "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
     },
     {
