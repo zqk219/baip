@@ -628,36 +628,42 @@
   ],
   "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
   "lives": [
-   {
+    {
       "name": "远程dockermigu",
       "type": 0,
       "url": "http://migu.fy981.dpdns.org",
-      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+      "epg": "https://epg.zqk219.dpdns.org/epg/pw-7/{date}/{name}.json"
     },
     {
-      "name": "远程ysp",
+      "name": "本地migu",
       "type": 0,
-      "url": "https://ysp.fy981.dpdns.org/all.m3u",
+      "url": "http://192.168.2.144:1234",
       "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
     },
     {
       "name": "肥羊",
       "type": 0,
-      "url": "https://live.ottiptv.cc/iptv.m3u?userid=6809634413&sign=de8455e4bfb7d8633ccd27febd2e47802950031a0591d96d8165a47d2d1c643675bbb0b732e8c6cf6290838d6a7083cd6e9a1f0071ed3824b2ffee4a083e2f6d6885763d03d5e5&auth_token=b51a62d3032914b55e0689a505e7586a",
+      "url": "https://mursor.ottiptv.cc/iptv.m3u?userid=6809634413&sign=ef3aca7e38ff8689172dfa6d78d828c1d5ec5cdb2e00bca2526d62aa3b8306cac307ca4dfabc149205d56c443eb5feab7f26d361d1d130fd2a7f796676ebc64f1532f11e861148&auth_token=b51a62d3032914b55e0689a505e7586a",
       "ua": "qqlive",
-      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+      "epg": "https://epg.zqk219.dpdns.org/epg/pw-7/{date}/{name}.json"
+    },
+    {
+      "name": "远程ysp",
+      "type": 0,
+      "url": "https://ysp.fy981.dpdns.org/all.m3u",
+      "epg": "https://epg.zqk219.dpdns.org/epg/pw-7/{date}/{name}.json"
     },
     {
       "name": "四川移动",
       "type": 0,
       "url": "http://110.40.170.5:8890/zhth/output/四川移动zb.txt",
-      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+      "epg": "https://epg.zqk219.dpdns.org/epg/pw-7/{date}/{name}.json"
     },
     {
       "name": "catvod",
       "type": 0,
-      "url": "https://live.catvod.com/playlist.m3u?tk=0775eb850f43a14777e9e4ee28951692",
-      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+      "url": "http://45.192.97.170:5211/789677",
+      "epg": "https://epg.zqk219.dpdns.org/epg/pw-7/{date}/{name}.json"
     },
     {
       "name": "日后",
@@ -669,7 +675,7 @@
       "name": "yf2025",
       "type": 0,
       "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
-      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
+      "epg": "https://epg.zqk219.dpdns.org/epg/pw-7/{date}/{name}.json"
     },
     {
       "name": "裤佬",
@@ -681,12 +687,6 @@
       "name": "ysp本地",
       "type": 0,
       "url": "http://192.168.2.231:16677/cctv.m3u",
-      "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
-    },
-    {
-      "name": "dockermigu",
-      "type": 0,
-      "url": "http://192.168.2.144:1234",
       "epg": "https://epg.zqk219.cc.cd/epg/pw-7/{date}/{name}.json"
     },
     {
